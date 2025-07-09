@@ -1,0 +1,3751 @@
+[
+  {
+    "id": "ALUMJC",
+    "description": "ALUMINIUM J-CLIP",
+    "category": "Aluminium Clip",
+    "rental_price": 1.00,
+    "sale_price": 5.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUMVC",
+    "description": "ALUMINIUM V-CLIP",
+    "category": "Aluminium Clip",
+    "rental_price": 1.50,
+    "sale_price": 12.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM2",
+    "description": "ALUMINIUM JOIST 6''½ X 2'",
+    "category": "Aluminium Joist",
+    "rental_price": 2.00,
+    "sale_price": 55.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM3",
+    "description": "ALUMINIUM JOIST 6''½ X 3'",
+    "category": "Aluminium Joist",
+    "rental_price": 3.00,
+    "sale_price": 82.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM4",
+    "description": "ALUMINIUM JOIST 6''½ X 4'",
+    "category": "Aluminium Joist",
+    "rental_price": 4.00,
+    "sale_price": 110.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM5",
+    "description": "ALUMINIUM JOIST 6''½ X 5'",
+    "category": "Aluminium Joist",
+    "rental_price": 5.00,
+    "sale_price": 137.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM6",
+    "description": "ALUMINIUM JOIST 6''½ X 6'",
+    "category": "Aluminium Joist",
+    "rental_price": 6.00,
+    "sale_price": 165.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM7",
+    "description": "ALUMINIUM JOIST 6''½ X 7'",
+    "category": "Aluminium Joist",
+    "rental_price": 7.00,
+    "sale_price": 192.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM8",
+    "description": "ALUMINIUM JOIST 6''½ X 8'",
+    "category": "Aluminium Joist",
+    "rental_price": 8.00,
+    "sale_price": 220.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM9",
+    "description": "ALUMINIUM JOIST 6''½ X 9'",
+    "category": "Aluminium Joist",
+    "rental_price": 9.00,
+    "sale_price": 247.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM10",
+    "description": "ALUMINIUM JOIST 6''½ X 10'",
+    "category": "Aluminium Joist",
+    "rental_price": 10.00,
+    "sale_price": 275.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM11",
+    "description": "ALUMINIUM JOIST 6''½ X 11'",
+    "category": "Aluminium Joist",
+    "rental_price": 11.00,
+    "sale_price": 302.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM12",
+    "description": "ALUMINIUM JOIST 6''½ X 12'",
+    "category": "Aluminium Joist",
+    "rental_price": 12.00,
+    "sale_price": 330.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM13",
+    "description": "ALUMINIUM JOIST 6''½ X 13'",
+    "category": "Aluminium Joist",
+    "rental_price": 13.00,
+    "sale_price": 357.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM14",
+    "description": "ALUMINIUM JOIST 6''½ X 14'",
+    "category": "Aluminium Joist",
+    "rental_price": 14.00,
+    "sale_price": 385.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM15",
+    "description": "ALUMINIUM JOIST 6''½ X 15'",
+    "category": "Aluminium Joist",
+    "rental_price": 15.00,
+    "sale_price": 412.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM16",
+    "description": "ALUMINIUM JOIST 6''½ X 16'",
+    "category": "Aluminium Joist",
+    "rental_price": 16.00,
+    "sale_price": 440.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM17",
+    "description": "ALUMINIUM JOIST 6''½ X 17'",
+    "category": "Aluminium Joist",
+    "rental_price": 17.00,
+    "sale_price": 467.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM18",
+    "description": "ALUMINIUM JOIST 6''½ X 18'",
+    "category": "Aluminium Joist",
+    "rental_price": 18.00,
+    "sale_price": 495.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM20",
+    "description": "ALUMINIUM JOIST 6''½ X 20'",
+    "category": "Aluminium Joist",
+    "rental_price": 20.00,
+    "sale_price": 550.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM21",
+    "description": "ALUMINIUM JOIST 6''½ X 21'",
+    "category": "Aluminium Joist",
+    "rental_price": 21.00,
+    "sale_price": 577.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM24",
+    "description": "ALUMINIUM JOIST 6''½ X 24'",
+    "category": "Aluminium Joist",
+    "rental_price": 24.00,
+    "sale_price": 660.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM25",
+    "description": "ALUMINIUM JOIST 6''½ X 25'",
+    "category": "Aluminium Joist",
+    "rental_price": 25.00,
+    "sale_price": 687.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM26",
+    "description": "ALUMINIUM JOIST 6''½ X 26'",
+    "category": "Aluminium Joist",
+    "rental_price": 26.00,
+    "sale_price": 715.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM32",
+    "description": "ALUMINIUM JOIST 6''½ X 32'",
+    "category": "Aluminium Joist",
+    "rental_price": 32.00,
+    "sale_price": 880.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM37",
+    "description": "ALUMINIUM JOIST 6''½ X 37'",
+    "category": "Aluminium Joist",
+    "rental_price": 37.00,
+    "sale_price": 1017.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALUM40",
+    "description": "ALUMINIUM JOIST 6''½ X 40'",
+    "category": "Aluminium Joist",
+    "rental_price": 40.00,
+    "sale_price": 1100.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR1",
+    "description": "ALUMINIUM STRINGER 7''¼ x 1'",
+    "category": "Aluminium Stringer",
+    "rental_price": 1.25,
+    "sale_price": 30.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR2",
+    "description": "ALUMINIUM STRINGER 7''¼ x 2'",
+    "category": "Aluminium Stringer",
+    "rental_price": 2.50,
+    "sale_price": 61.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR3",
+    "description": "ALUMINIUM STRINGER 7''¼ x 3'",
+    "category": "Aluminium Stringer",
+    "rental_price": 3.75,
+    "sale_price": 91.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR4",
+    "description": "ALUMINIUM STRINGER 7''¼ x 4'",
+    "category": "Aluminium Stringer",
+    "rental_price": 5.00,
+    "sale_price": 122.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR4.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 4'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 5.50,
+    "sale_price": 137.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR5",
+    "description": "ALUMINIUM STRINGER 7''¼ x 5'",
+    "category": "Aluminium Stringer",
+    "rental_price": 6.25,
+    "sale_price": 152.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR5.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 5'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 7.00,
+    "sale_price": 167.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 6'",
+    "category": "Aluminium Stringer",
+    "rental_price": 7.50,
+    "sale_price": 183.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR7",
+    "description": "ALUMINIUM STRINGER 7''¼ x 7'",
+    "category": "Aluminium Stringer",
+    "rental_price": 8.75,
+    "sale_price": 213.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR7.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 7'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 9.50,
+    "sale_price": 228.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR8",
+    "description": "ALUMINIUM STRINGER 7''¼ x 8'",
+    "category": "Aluminium Stringer",
+    "rental_price": 10.00,
+    "sale_price": 244.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR8.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 8'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 10.75,
+    "sale_price": 259.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR9",
+    "description": "ALUMINIUM STRINGER 7''¼ x 9'",
+    "category": "Aluminium Stringer",
+    "rental_price": 11.25,
+    "sale_price": 274.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR10",
+    "description": "ALUMINIUM STRINGER 7''¼ x 10'",
+    "category": "Aluminium Stringer",
+    "rental_price": 12.50,
+    "sale_price": 305.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR10.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 10'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 13.25,
+    "sale_price": 320.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR11",
+    "description": "ALUMINIUM STRINGER 7''¼ x 11'",
+    "category": "Aluminium Stringer",
+    "rental_price": 13.75,
+    "sale_price": 335.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR11.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 11'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 14.50,
+    "sale_price": 350.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR12",
+    "description": "ALUMINIUM STRINGER 7''¼ x 12'",
+    "category": "Aluminium Stringer",
+    "rental_price": 15.00,
+    "sale_price": 366.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR12.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 12'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 15.75,
+    "sale_price": 381.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR13",
+    "description": "ALUMINIUM STRINGER 7''¼ x 13'",
+    "category": "Aluminium Stringer",
+    "rental_price": 16.25,
+    "sale_price": 396.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR14",
+    "description": "ALUMINIUM STRINGER 7''¼ x 14'",
+    "category": "Aluminium Stringer",
+    "rental_price": 17.50,
+    "sale_price": 427.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR14.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 14'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 18.25,
+    "sale_price": 442.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR15",
+    "description": "ALUMINIUM STRINGER 7''¼ x 15'",
+    "category": "Aluminium Stringer",
+    "rental_price": 18.75,
+    "sale_price": 457.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR15.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 15'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 19.50,
+    "sale_price": 472.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR16",
+    "description": "ALUMINIUM STRINGER 7''¼ x 16'",
+    "category": "Aluminium Stringer",
+    "rental_price": 20.00,
+    "sale_price": 488.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR16.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 16'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 20.75,
+    "sale_price": 503.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR17",
+    "description": "ALUMINIUM STRINGER 7''¼ x 17'",
+    "category": "Aluminium Stringer",
+    "rental_price": 21.25,
+    "sale_price": 518.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR18",
+    "description": "ALUMINIUM STRINGER 7''¼ x 18'",
+    "category": "Aluminium Stringer",
+    "rental_price": 22.50,
+    "sale_price": 549.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR20",
+    "description": "ALUMINIUM STRINGER 7''¼ x 20'",
+    "category": "Aluminium Stringer",
+    "rental_price": 25.00,
+    "sale_price": 610.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR21",
+    "description": "ALUMINIUM STRINGER 7''¼ x 21'",
+    "category": "Aluminium Stringer",
+    "rental_price": 26.25,
+    "sale_price": 640.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR21.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 21'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 27.00,
+    "sale_price": 655.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR24",
+    "description": "ALUMINIUM STRINGER 7''¼ x 24'",
+    "category": "Aluminium Stringer",
+    "rental_price": 30.00,
+    "sale_price": 732.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR28.6",
+    "description": "ALUMINIUM STRINGER 7''¼ x 28'6''",
+    "category": "Aluminium Stringer",
+    "rental_price": 35.75,
+    "sale_price": 869.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTR30",
+    "description": "ALUMINIUM STRINGER 7''¼ x 30'",
+    "category": "Aluminium Stringer",
+    "rental_price": 37.50,
+    "sale_price": 915.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ALSTRSP",
+    "description": "ALUMINIUM STRINGER SPLICE PLATE",
+    "category": "Aluminium Stringer",
+    "rental_price": 4.00,
+    "sale_price": 75.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC1",
+    "description": "ANCHOR POST 1'",
+    "category": "Anchor Post",
+    "rental_price": 0.75,
+    "sale_price": 22.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC2",
+    "description": "ANCHOR POST 2'",
+    "category": "Anchor Post",
+    "rental_price": 1.00,
+    "sale_price": 32.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC3",
+    "description": "ANCHOR POST 3'",
+    "category": "Anchor Post",
+    "rental_price": 1.25,
+    "sale_price": 47.45,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC4",
+    "description": "ANCHOR POST 4'",
+    "category": "Anchor Post",
+    "rental_price": 1.50,
+    "sale_price": 63.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC5",
+    "description": "ANCHOR POST 5'",
+    "category": "Anchor Post",
+    "rental_price": 1.75,
+    "sale_price": 79.10,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC6",
+    "description": "ANCHOR POST 6'",
+    "category": "Anchor Post",
+    "rental_price": 2.00,
+    "sale_price": 94.85,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANC8",
+    "description": "ANCHOR POST 8'",
+    "category": "Anchor Post",
+    "rental_price": 2.50,
+    "sale_price": 126.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ANCP",
+    "description": "ANCHOR PLATE",
+    "category": "Anchor Post",
+    "rental_price": 1.00,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B42",
+    "description": "BRACE 4' X 2'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 39.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B44",
+    "description": "BRACE 4' X 4'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 39.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B52",
+    "description": "BRACE 5' X 2'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 41.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B54",
+    "description": "BRACE 5' X 4'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 41.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B71",
+    "description": "BRACE 7' X 1'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 42.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B72",
+    "description": "BRACE 7' X 2'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 42.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B74",
+    "description": "BRACE 7' X 4'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 42.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B82",
+    "description": "BRACE 8' X 2'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 44.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B84",
+    "description": "BRACE 8' X 4'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 44.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B102",
+    "description": "BRACE 10' X 2'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 46.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "B104",
+    "description": "BRACE 10' X 4'",
+    "category": "Brace",
+    "rental_price": 1.50,
+    "sale_price": 46.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB2.2",
+    "description": "BAY BRACE 2'2'' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.00,
+    "sale_price": 33.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB3",
+    "description": "BAY BRACE 3' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.00,
+    "sale_price": 36.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB3.6",
+    "description": "BAY BRACE 3'6'' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.00,
+    "sale_price": 37.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB3.10",
+    "description": "BAY BRACE 3'10'' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.00,
+    "sale_price": 38.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB4",
+    "description": "BAY BRACE 4' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.00,
+    "sale_price": 38.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB5",
+    "description": "BAY BRACE 5' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.25,
+    "sale_price": 39.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB5.2",
+    "description": "BAY BRACE 5'2'' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.25,
+    "sale_price": 40.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB5.4",
+    "description": "BAY BRACE 5'4'' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.25,
+    "sale_price": 42.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB6",
+    "description": "BAY BRACE 6' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.25,
+    "sale_price": 46.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB7",
+    "description": "BAY BRACE 7' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.50,
+    "sale_price": 48.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB8",
+    "description": "BAY BRACE 8' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.50,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BB10",
+    "description": "BAY BRACE 10' X 2M",
+    "category": "Bay Brace",
+    "rental_price": 2.50,
+    "sale_price": 54.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BBADJ",
+    "description": "BAY BRACE ADJUSTABLE",
+    "category": "Bay Brace",
+    "rental_price": 2.50,
+    "sale_price": 72.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BCFALL",
+    "description": "BEAM CLAMP BLUE- PPE",
+    "category": "Beam Clamp",
+    "rental_price": 20.00,
+    "sale_price": 197.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BCGALV",
+    "description": "BEAM CLAMP GALVANIZED",
+    "category": "Beam Clamp",
+    "rental_price": 30.00,
+    "sale_price": 300.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BH75",
+    "description": "BRACE HORIZONTAL 7' X 5'",
+    "category": "Brace Horizontal",
+    "rental_price": 2.00,
+    "sale_price": 40.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BH105",
+    "description": "BRACE HORIZONTAL 10' X 5'",
+    "category": "Brace Horizontal",
+    "rental_price": 2.25,
+    "sale_price": 45.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BHADJ",
+    "description": "BRACE HORIZONTAL ADJUSTABLE",
+    "category": "Brace Horizontal",
+    "rental_price": 2.50,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BP",
+    "description": "BASE PLATE",
+    "category": "Base Plate",
+    "rental_price": 1.50,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "BPSW",
+    "description": "BASE PLATE SWIVEL",
+    "category": "Base Plate",
+    "rental_price": 2.00,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "C8",
+    "description": "CASTOR 8'' 800 LBS CAP.",
+    "category": "Castor",
+    "rental_price": 5.00,
+    "sale_price": 45.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "C8HD",
+    "description": "CASTOR 8'' HD RED 2,000 LBS CAP.",
+    "category": "Castor",
+    "rental_price": 8.00,
+    "sale_price": 100.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "C8J",
+    "description": "CASTOR 8'' 800 LBS CAP. W/JACK",
+    "category": "Castor",
+    "rental_price": 8.00,
+    "sale_price": 95.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CHBAR",
+    "description": "CHUTE SPREADER BAR",
+    "category": "Chute",
+    "rental_price": 20.00,
+    "sale_price": 240.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CHHOP",
+    "description": "CHUTE HOPPER",
+    "category": "Chute",
+    "rental_price": 70.00,
+    "sale_price": 378.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CHDOOR",
+    "description": "CHUTE DOOR",
+    "category": "Chute",
+    "rental_price": 70.00,
+    "sale_price": 504.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CHREG",
+    "description": "CHUTE REGULAR",
+    "category": "Chute",
+    "rental_price": 55.00,
+    "sale_price": 290.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CHLIN",
+    "description": "CHUTE LINER",
+    "category": "Chute",
+    "rental_price": 20.00,
+    "sale_price": 180.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CRO516",
+    "description": "CROSBY CLIP 5/16''",
+    "category": "Crosby Clip",
+    "rental_price": 0.25,
+    "sale_price": 4.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "CRO38",
+    "description": "CROSBY CLIP 3/8''",
+    "category": "Crosby Clip",
+    "rental_price": 0.25,
+    "sale_price": 5.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "EB24",
+    "description": "END BRACKET 24'' (FRAME TYPE)",
+    "category": "End Bracket",
+    "rental_price": 3.50,
+    "sale_price": 27.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "EB30",
+    "description": "END BRACKET 30'' (FRAME TYPE)",
+    "category": "End Bracket",
+    "rental_price": 3.75,
+    "sale_price": 29.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "EB36",
+    "description": "END BRACKET 36'' (FRAME TYPE)",
+    "category": "End Bracket",
+    "rental_price": 4.00,
+    "sale_price": 34.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "EB40",
+    "description": "END BRACKET 40' (FRAME TYPE)",
+    "category": "End Bracket",
+    "rental_price": 4.50,
+    "sale_price": 39.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESR1",
+    "description": "STARTER STAIR GUARDRAIL",
+    "category": "Stair System",
+    "rental_price": 2.50,
+    "sale_price": 190.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESRL1",
+    "description": "STARTER STAIR GUARDRAIL",
+    "category": "Stair System",
+    "rental_price": 5.00,
+    "sale_price": 240.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ES1M",
+    "description": "STAIR BASE 1.20 X 0.64M W.TUBE",
+    "category": "Stair System",
+    "rental_price": 25.00,
+    "sale_price": 725.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ES1.2M",
+    "description": "STAIR BASE 1.00 X 0.64M W. TUBE",
+    "category": "Stair System",
+    "rental_price": 25.00,
+    "sale_price": 725.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ES75",
+    "description": "STAIR WITH LANDING 7' X 5'",
+    "category": "Stair System",
+    "rental_price": 29.95,
+    "sale_price": 1060.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ES102M",
+    "description": "STAIR WITH LANDING 10' X 2M",
+    "category": "Stair System",
+    "rental_price": 39.95,
+    "sale_price": 1150.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESAD",
+    "description": "STAIR ADAPTER",
+    "category": "Stair System",
+    "rental_price": 3.00,
+    "sale_price": 55.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESBAR",
+    "description": "STAIR SAFETY BAR",
+    "category": "Stair System",
+    "rental_price": 1.25,
+    "sale_price": 57.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESR7",
+    "description": "STAIR HAND RAIL 7' (INSIDE)",
+    "category": "Stair System",
+    "rental_price": 1.75,
+    "sale_price": 109.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESRL7",
+    "description": "STAIR HAND RAIL 7' (OUTSIDE)",
+    "category": "Stair System",
+    "rental_price": 1.75,
+    "sale_price": 172.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESR10",
+    "description": "STAIR HAND RAIL 10' (INSIDE) LAYHER",
+    "category": "Stair System",
+    "rental_price": 2.50,
+    "sale_price": 175.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESRL10",
+    "description": "STAIR HAND RAIL 10' (OUTSIDE) LAYHER",
+    "category": "Stair System",
+    "rental_price": 5.00,
+    "sale_price": 295.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESRR10",
+    "description": "STAIR HAND RAIL 10' REMOVABLE ENDS",
+    "category": "Stair System",
+    "rental_price": 2.75,
+    "sale_price": 175.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ESSTEP",
+    "description": "STAIR MID LANDING STEP (7' STAIR)",
+    "category": "Stair System",
+    "rental_price": 3.00,
+    "sale_price": 96.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FA",
+    "description": "FRAME ADAPTER",
+    "category": "Frame Adapter",
+    "rental_price": 2.25,
+    "sale_price": 22.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FP",
+    "description": "FRAME PIN",
+    "category": "Frame Pin",
+    "rental_price": 0.50,
+    "sale_price": 9.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FS",
+    "description": "FRAME SPRING RETAINER",
+    "category": "Frame Spring Retainer",
+    "rental_price": 0.15,
+    "sale_price": 1.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F13",
+    "description": "FRAME 15'' W X 3' H",
+    "category": "Frame",
+    "rental_price": 4.50,
+    "sale_price": 163.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F15",
+    "description": "FRAME 15'' W X 5' H",
+    "category": "Frame",
+    "rental_price": 4.50,
+    "sale_price": 153.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F23",
+    "description": "FRAME 30'' W X 3' H",
+    "category": "Frame",
+    "rental_price": 4.50,
+    "sale_price": 144.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F25",
+    "description": "FRAME 30'' W X 5' H",
+    "category": "Frame",
+    "rental_price": 4.50,
+    "sale_price": 156.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F43",
+    "description": "FRAME 4' W X 3' H",
+    "category": "Frame",
+    "rental_price": 4.50,
+    "sale_price": 157.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F45",
+    "description": "FRAME 4' W X 5' H",
+    "category": "Frame",
+    "rental_price": 5.00,
+    "sale_price": 225.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F53",
+    "description": "FRAME 5' W X 3' H",
+    "category": "Frame",
+    "rental_price": 4.50,
+    "sale_price": 143.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F55",
+    "description": "FRAME 5' W X 5' H",
+    "category": "Frame",
+    "rental_price": 5.00,
+    "sale_price": 160.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F56",
+    "description": "FRAME 5' W X 6' H ARCH",
+    "category": "Frame",
+    "rental_price": 5.00,
+    "sale_price": 186.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F56M",
+    "description": "FRAME 5' W X 6' H MASON",
+    "category": "Frame",
+    "rental_price": 5.00,
+    "sale_price": 192.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F56L",
+    "description": "FRAME 5' W X 6' H LADDER",
+    "category": "Frame",
+    "rental_price": 5.00,
+    "sale_price": 188.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "F611",
+    "description": "FRAME 6' W X 11' H",
+    "category": "Frame",
+    "rental_price": 10.00,
+    "sale_price": 761.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FREGSYS",
+    "description": "FRAME PIN REGULAR TO SYSTEM",
+    "category": "Frame Pin",
+    "rental_price": 2.00,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FEN48",
+    "description": "PEDESTRIAN FENCE 4' X 8'",
+    "category": "Fence",
+    "rental_price": 7.50,
+    "sale_price": 115.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FEN410",
+    "description": "FENCE 4' H X 10' L (0.75$/LN.FT.)",
+    "category": "Fence",
+    "rental_price": 7.50,
+    "sale_price": 115.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FEN610",
+    "description": "FENCE 6' H X 10' L (0.75$/LN.FT.)",
+    "category": "Fence",
+    "rental_price": 7.50,
+    "sale_price": 125.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FEN610DR",
+    "description": "FENCE 6' H X 10' L (0.75$/LN.FT.)",
+    "category": "Fence",
+    "rental_price": 7.50,
+    "sale_price": 150.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FEN810",
+    "description": "FENCE 8' H X 10' L (1.00$/LN.FT.)",
+    "category": "Fence",
+    "rental_price": 10.00,
+    "sale_price": 150.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FEN810DR",
+    "description": "FENCE 8' H X 10' L (1.00$/LN.FT.)",
+    "category": "Fence",
+    "rental_price": 10.00,
+    "sale_price": 175.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FENBAS",
+    "description": "FENCE BASE",
+    "category": "Fence",
+    "rental_price": null,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FENTOP",
+    "description": "FENCE TOP",
+    "category": "Fence",
+    "rental_price": null,
+    "sale_price": 10.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FENW",
+    "description": "FENCE CASTER WHEEL",
+    "category": "Fence",
+    "rental_price": 2.50,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FENC",
+    "description": "FENCE CLIP",
+    "category": "Fence",
+    "rental_price": 0.50,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FENWINDBR",
+    "description": "FENCE WIND BRACE (BRACE+CLIP+BASE)",
+    "category": "Fence",
+    "rental_price": 2.00,
+    "sale_price": 48.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "FIBERSCAFF",
+    "description": "FIBERGLASS SCAFFOLD KIT 3'W X 8'L X 15'H",
+    "category": "Fiberglass Scaffold Kit",
+    "rental_price": 4000.00,
+    "sale_price": 17415.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "GINP",
+    "description": "GIN WHEEL POST",
+    "category": "Gin Wheel",
+    "rental_price": 9.75,
+    "sale_price": 200.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "GINPSYS",
+    "description": "GIN WHEEL POST SYSTEMS",
+    "category": "Gin Wheel",
+    "rental_price": 9.75,
+    "sale_price": 200.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "GINW",
+    "description": "GIN WHEEL",
+    "category": "Gin Wheel",
+    "rental_price": 9.75,
+    "sale_price": 108.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "GMAXI120",
+    "description": "GEDA MAXI 120 HOIST",
+    "category": "Hoist",
+    "rental_price": 750.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PATRIOT",
+    "description": "PATRIOT HOIST",
+    "category": "Hoist",
+    "rental_price": 2500.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "HH-RP2001",
+    "description": "HI-TECH HOIST RP-2001 RACK & PINION",
+    "category": "Hoist",
+    "rental_price": 3500.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LARM",
+    "description": "LOCK ARM",
+    "category": "Lock Arm",
+    "rental_price": 0.40,
+    "sale_price": 12.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LARML",
+    "description": "LOCK ARM LARGE",
+    "category": "Lock Arm",
+    "rental_price": 0.50,
+    "sale_price": 17.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADDBR",
+    "description": "LADDER BRACKET",
+    "category": "Ladder",
+    "rental_price": 3.00,
+    "sale_price": 27.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADD3",
+    "description": "LADDER FRAME 3' H",
+    "category": "Ladder Frame",
+    "rental_price": 3.75,
+    "sale_price": 20.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADDAL3",
+    "description": "LADDER FRAME ALUMINUM 3' H",
+    "category": "Ladder Frame",
+    "rental_price": 4.75,
+    "sale_price": 125.08,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADD5",
+    "description": "LADDER FRAME 5' H",
+    "category": "Ladder Frame",
+    "rental_price": 5.50,
+    "sale_price": 47.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADDAL5",
+    "description": "LADDER FRAME ALUMINUM 5' H",
+    "category": "Ladder Frame",
+    "rental_price": 6.50,
+    "sale_price": 162.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADDAL10",
+    "description": "LADDER FRAME ALUMINUM 10' H",
+    "category": "Ladder Frame",
+    "rental_price": 13.00,
+    "sale_price": 301.12,
+    "type": "scaffolding"
+  },
+  {
+    "id": "LADDCAGE",
+    "description": "LADDER CAGE",
+    "category": "Ladder",
+    "rental_price": 10.00,
+    "sale_price": 175.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MG-A/CM",
+    "description": "P TO SCAFFOLD TUBE COUPLER",
+    "category": "Coupler",
+    "rental_price": 3.50,
+    "sale_price": 55.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MG-B/DM",
+    "description": "P TO SCAFFOLD TUBE COUPLER",
+    "category": "Coupler",
+    "rental_price": 3.50,
+    "sale_price": 55.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MP120",
+    "description": "MULTI-PROP 1.2 M (31-1/2\" - 4')",
+    "category": "Multi-Prop",
+    "rental_price": 22.95,
+    "sale_price": 275.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MP250",
+    "description": "MULTI-PROP 2.5 M (4'9\" - 8'2\")",
+    "category": "Multi-Prop",
+    "rental_price": 22.95,
+    "sale_price": 378.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MP350",
+    "description": "MULTI-PROP 3.5 M (6'3\" - 11'6\")",
+    "category": "Multi-Prop",
+    "rental_price": 26.95,
+    "sale_price": 438.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MP480",
+    "description": "MULTI-PROP 4.8 M (8'6\" - 15'9\")",
+    "category": "Multi-Prop",
+    "rental_price": 33.85,
+    "sale_price": 506.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MP625",
+    "description": "MULTI-PROP 6.25 M (14' - 20'6\")",
+    "category": "Multi-Prop",
+    "rental_price": 36.45,
+    "sale_price": 607.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MPUHEAD",
+    "description": "MULTI-PROP U-HEAD",
+    "category": "Multi-Prop",
+    "rental_price": 5.00,
+    "sale_price": 60.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK62.5",
+    "description": "MRK FRAME STEEL 625MM",
+    "category": "MRK Frame",
+    "rental_price": 8.75,
+    "sale_price": 115.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK75",
+    "description": "MRK FRAME STEEL 750MM",
+    "category": "MRK Frame",
+    "rental_price": 9.00,
+    "sale_price": 125.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK90",
+    "description": "MRK FRAME STEEL 900MM",
+    "category": "MRK Frame",
+    "rental_price": 9.75,
+    "sale_price": 150.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK120",
+    "description": "MRK FRAME STEEL 1200MM",
+    "category": "MRK Frame",
+    "rental_price": 11.00,
+    "sale_price": 200.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK137.5",
+    "description": "MRK FRAME STEEL 1375MM",
+    "category": "MRK Frame",
+    "rental_price": 12.00,
+    "sale_price": 225.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK150",
+    "description": "MRK FRAME STEEL 1500MM",
+    "category": "MRK Frame",
+    "rental_price": 12.25,
+    "sale_price": 250.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK121.5",
+    "description": "MRK FRAME ALUMINUM 1215MM",
+    "category": "MRK Frame",
+    "rental_price": 15.00,
+    "sale_price": 225.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK225",
+    "description": "MRK FRAME ALUMINUM 2250MM",
+    "category": "MRK Frame",
+    "rental_price": 16.50,
+    "sale_price": 325.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK230",
+    "description": "MRK FRAME ALUMINUM 2300MM",
+    "category": "MRK Frame",
+    "rental_price": 16.75,
+    "sale_price": 350.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK237",
+    "description": "MRK FRAME ALUMINUM 2370MM",
+    "category": "MRK Frame",
+    "rental_price": 17.00,
+    "sale_price": 375.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK266",
+    "description": "MRK FRAME ALUMINUM 2660MM",
+    "category": "MRK Frame",
+    "rental_price": 18.75,
+    "sale_price": 425.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "MRK296",
+    "description": "MRK FRAME ALUMINUM 2960MM",
+    "category": "MRK Frame",
+    "rental_price": 20.25,
+    "sale_price": 450.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PIGT",
+    "description": "PIGTAIL LOCKING PIN",
+    "category": "Pigtail Pin",
+    "rental_price": 0.25,
+    "sale_price": 2.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P320",
+    "description": "PLATFORM 3'L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 6.00,
+    "sale_price": 115.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P3620",
+    "description": "PLATFORM 3'6'' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 6.00,
+    "sale_price": 120.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P31020",
+    "description": "PLATFORM 3'10'' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 6.50,
+    "sale_price": 125.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P420",
+    "description": "PLATFORM 4' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 6.50,
+    "sale_price": 140.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P520",
+    "description": "PLATFORM 5' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 7.00,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P5220",
+    "description": "PLATFORM 5'2'' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 7.00,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P5420",
+    "description": "PLATFORM 5'4'' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 7.25,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P720",
+    "description": "PLATFORM 7' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 8.25,
+    "sale_price": 210.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P820",
+    "description": "PLATFORM 8' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 8.75,
+    "sale_price": 220.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1020",
+    "description": "PLATFORM 10' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 9.25,
+    "sale_price": 240.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1420",
+    "description": "PLATFORM 14' L X 19.5'' W",
+    "category": "Platform",
+    "rental_price": 11.55,
+    "sale_price": 300.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P720M",
+    "description": "PLATFORM 7' X 19'' METALTECH",
+    "category": "Platform",
+    "rental_price": 8.25,
+    "sale_price": 210.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P820M",
+    "description": "PLATFORM 8' X 19'' METALTECH",
+    "category": "Platform",
+    "rental_price": 8.75,
+    "sale_price": 220.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1020M",
+    "description": "PLATFORM 10' X 19'' METALTECH",
+    "category": "Platform",
+    "rental_price": 9.25,
+    "sale_price": 240.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1020AT",
+    "description": "PLATFORM 10' X 19'' ATPAC",
+    "category": "Platform",
+    "rental_price": 9.25,
+    "sale_price": 100.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P510",
+    "description": "PLATFORM 5' X 9.5''",
+    "category": "Platform",
+    "rental_price": 7.00,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P5210",
+    "description": "PLATFORM 5'2'' X 9.5''",
+    "category": "Platform",
+    "rental_price": 7.00,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P5410",
+    "description": "PLATFORM 5'4'' X 9.5''",
+    "category": "Platform",
+    "rental_price": 7.25,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P710",
+    "description": "PLATFORM 7' X 9.5''",
+    "category": "Platform",
+    "rental_price": 8.25,
+    "sale_price": 210.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P810",
+    "description": "PLATFORM 8' X 9.5''",
+    "category": "Platform",
+    "rental_price": 8.75,
+    "sale_price": 220.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1010",
+    "description": "PLATFORM 10' X 9.5''",
+    "category": "Platform",
+    "rental_price": 9.25,
+    "sale_price": 240.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P724",
+    "description": "PLATFORM 7' X 24\"",
+    "category": "Platform",
+    "rental_price": 8.25,
+    "sale_price": 235.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P824",
+    "description": "PLATFORM 8' X 24\"",
+    "category": "Platform",
+    "rental_price": 8.75,
+    "sale_price": 255.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1024",
+    "description": "PLATFORM 10' X 24\"",
+    "category": "Platform",
+    "rental_price": 9.25,
+    "sale_price": 320.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P728",
+    "description": "PLATFORM 7' X 28''",
+    "category": "Platform",
+    "rental_price": 14.50,
+    "sale_price": 350.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P728L",
+    "description": "PLATFORM 7' X 28'' LADDER & DOOR",
+    "category": "Platform",
+    "rental_price": 14.95,
+    "sale_price": 700.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P828",
+    "description": "PLATFORM 8' X 28''",
+    "category": "Platform",
+    "rental_price": 14.75,
+    "sale_price": 387.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P828L",
+    "description": "PLATFORM 8' X 28'' LADDER & DOOR",
+    "category": "Platform",
+    "rental_price": 15.05,
+    "sale_price": 775.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1028",
+    "description": "PLATFORM 10' X 28''",
+    "category": "Platform",
+    "rental_price": 15.50,
+    "sale_price": 450.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "P1028L",
+    "description": "PLATFORM 10' X 28'' LADDER & DOOR",
+    "category": "Platform",
+    "rental_price": 15.95,
+    "sale_price": 900.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PPJC",
+    "description": "PIPE TO PIPE JOINER CLAMP",
+    "category": "Pipe Clamp",
+    "rental_price": 1.25,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP2",
+    "description": "PIPE 2' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 1.00,
+    "sale_price": 10.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP3",
+    "description": "PIPE 3' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 1.50,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP4",
+    "description": "PIPE 4' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 2.00,
+    "sale_price": 20.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP5",
+    "description": "PIPE 5' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 2.50,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP6",
+    "description": "PIPE 6' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 3.00,
+    "sale_price": 30.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP7",
+    "description": "PIPE 7' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 4.00,
+    "sale_price": 35.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP10",
+    "description": "PIPE 10' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 5.00,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP11",
+    "description": "PIPE 11' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 5.50,
+    "sale_price": 55.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP12",
+    "description": "PIPE 12' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 6.00,
+    "sale_price": 60.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP14",
+    "description": "PIPE 14' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 7.00,
+    "sale_price": 70.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP16",
+    "description": "PIPE 16' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 8.00,
+    "sale_price": 80.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP20",
+    "description": "PIPE 20' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 10.00,
+    "sale_price": 100.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP21",
+    "description": "PIPE 21' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 10.50,
+    "sale_price": 105.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP24",
+    "description": "PIPE 24' - STEEL",
+    "category": "Pipe Steel",
+    "rental_price": 12.00,
+    "sale_price": 120.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP1AL",
+    "description": "PIPE 1' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 0.50,
+    "sale_price": 5.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP2AL",
+    "description": "PIPE 2' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 1.00,
+    "sale_price": 10.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP3AL",
+    "description": "PIPE 3' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 1.50,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP4AL",
+    "description": "PIPE 4' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 2.00,
+    "sale_price": 20.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP5AL",
+    "description": "PIPE 5' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 2.50,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP6AL",
+    "description": "PIPE 6' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 3.00,
+    "sale_price": 30.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP8AL",
+    "description": "PIPE 8' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 4.00,
+    "sale_price": 40.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP10AL",
+    "description": "PIPE 10' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 5.00,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP12AL",
+    "description": "PIPE 12' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 6.00,
+    "sale_price": 60.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP14AL",
+    "description": "PIPE 14' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 7.00,
+    "sale_price": 70.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP16AL",
+    "description": "PIPE 16' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 8.00,
+    "sale_price": 80.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP20AL",
+    "description": "PIPE 20' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 10.00,
+    "sale_price": 100.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "PP24AL",
+    "description": "PIPE 24' - ALUMINIUM",
+    "category": "Pipe Aluminium",
+    "rental_price": 12.00,
+    "sale_price": 120.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RPOST",
+    "description": "GUARD RAIL POST",
+    "category": "Guard Rail",
+    "rental_price": 2.00,
+    "sale_price": 52.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R2",
+    "description": "RAILING 2'",
+    "category": "Railing",
+    "rental_price": 0.50,
+    "sale_price": 11.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R25",
+    "description": "RAILING 27''¼",
+    "category": "Railing",
+    "rental_price": 0.60,
+    "sale_price": 13.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R4",
+    "description": "RAILING 4'",
+    "category": "Railing",
+    "rental_price": 0.70,
+    "sale_price": 14.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R5",
+    "description": "RAILING 5'",
+    "category": "Railing",
+    "rental_price": 0.75,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R7",
+    "description": "RAILING 7'",
+    "category": "Railing",
+    "rental_price": 0.80,
+    "sale_price": 16.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R8",
+    "description": "RAILING 8'",
+    "category": "Railing",
+    "rental_price": 0.90,
+    "sale_price": 17.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "R10",
+    "description": "RAILING 10'",
+    "category": "Railing",
+    "rental_price": 1.00,
+    "sale_price": 20.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RA",
+    "description": "RIGHT ANGLE CLAMP",
+    "category": "Clamp",
+    "rental_price": 1.00,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RABEAM",
+    "description": "RIGHT ANGLE TO BEAM CLAMP",
+    "category": "Clamp",
+    "rental_price": 1.50,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RASL",
+    "description": "RIGHT ANGLE TO LEDGER",
+    "category": "Clamp",
+    "rental_price": 1.00,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RASUPP",
+    "description": "RIGHT ANGLE LEDGER SUPPORT",
+    "category": "Clamp",
+    "rental_price": 3.25,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RAW",
+    "description": "RIGHT ANGLE WEDGE CLAMP",
+    "category": "Clamp",
+    "rental_price": 1.00,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "RAWOOD",
+    "description": "RIGHT ANGLE TO WOOD CLAMP",
+    "category": "Clamp",
+    "rental_price": 1.50,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ROSADJ",
+    "description": "ROSETTE ADJUSTABLE CLAMP",
+    "category": "Rosette",
+    "rental_price": 1.50,
+    "sale_price": 22.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ROSPLT",
+    "description": "ROSETTE ANCHOR PLATE",
+    "category": "Rosette",
+    "rental_price": 10.00,
+    "sale_price": 150.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ROLLER-TANK",
+    "description": "HILMAN TANK ROLLER",
+    "category": "Roller",
+    "rental_price": 20.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SB12",
+    "description": "SIDE BRACKET 12''",
+    "category": "Side Bracket",
+    "rental_price": 2.50,
+    "sale_price": 27.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SB24",
+    "description": "SIDE BRACKET 24''",
+    "category": "Side Bracket",
+    "rental_price": 3.50,
+    "sale_price": 27.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SB30",
+    "description": "SIDE BRACKET 30''",
+    "category": "Side Bracket",
+    "rental_price": 4.00,
+    "sale_price": 29.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SB36",
+    "description": "SIDE BRACKET 36''",
+    "category": "Side Bracket",
+    "rental_price": 4.50,
+    "sale_price": 34.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SB40",
+    "description": "SIDE BRACKET 40''",
+    "category": "Side Bracket",
+    "rental_price": 5.00,
+    "sale_price": 40.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SB2436",
+    "description": "SIDE BRACKET 24'' TO 36'' ADJUSTABLE",
+    "category": "Side Bracket",
+    "rental_price": 4.50,
+    "sale_price": 42.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SCB24",
+    "description": "SYSTEM CORNER BRACKET 24''",
+    "category": "System Corner Bracket",
+    "rental_price": 10.00,
+    "sale_price": 120.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD2.2",
+    "description": "STEEL DECK 2'2'' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 2.50,
+    "sale_price": 30.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD3.10",
+    "description": "STEEL DECK 3'10'' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 3.00,
+    "sale_price": 41.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD4",
+    "description": "STEEL DECK 4' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 3.00,
+    "sale_price": 44.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD5",
+    "description": "STEEL DECK 5' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 3.00,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD5.4",
+    "description": "STEEL DECK 5'4'' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 3.00,
+    "sale_price": 51.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD7",
+    "description": "STEEL DECK 7' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 3.75,
+    "sale_price": 64.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD8",
+    "description": "STEEL DECK 8' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 4.00,
+    "sale_price": 72.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SD10",
+    "description": "STEEL DECK 10' X 9.5''",
+    "category": "Steel Deck",
+    "rental_price": 4.50,
+    "sale_price": 98.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SEPC",
+    "description": "SYSTEM EDGE PROTECTION CLAMP LAYHER",
+    "category": "System Edge Protection",
+    "rental_price": 7.50,
+    "sale_price": 195.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SGATE",
+    "description": "SWING GATE",
+    "category": "Swing Gate",
+    "rental_price": 6.35,
+    "sale_price": 95.29,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SFA",
+    "description": "SYSTEM FRAME ADAPTER",
+    "category": "System Adapter",
+    "rental_price": 2.00,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STFA",
+    "description": "SYSTEM TO FRAME ADAPTER (REGULAR1.68)",
+    "category": "System Adapter",
+    "rental_price": 2.00,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SHORE # 0",
+    "description": "SHORING POST (3'6\" - 6')",
+    "category": "Shoring Post",
+    "rental_price": 6.00,
+    "sale_price": 87.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SHORE # 1",
+    "description": "SHORING POST (5'6\" - 10')",
+    "category": "Shoring Post",
+    "rental_price": 7.00,
+    "sale_price": 94.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SHORE # 2",
+    "description": "SHORING POST (6'6\" - 11')",
+    "category": "Shoring Post",
+    "rental_price": 7.50,
+    "sale_price": 101.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SHORE # 3",
+    "description": "SHORING POST (8'6\" - 13')",
+    "category": "Shoring Post",
+    "rental_price": 8.00,
+    "sale_price": 118.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SHORE # 4",
+    "description": "SHORING POST (10'6\" - 15'6\")",
+    "category": "Shoring Post",
+    "rental_price": 9.00,
+    "sale_price": 149.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SJ",
+    "description": "SCREW JACK 18'' NO BASE PLATE",
+    "category": "Screw Jack",
+    "rental_price": 2.00,
+    "sale_price": 20.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SJ18",
+    "description": "SCREW JACK 18'' WITH BASE PLATE",
+    "category": "Screw Jack",
+    "rental_price": 2.25,
+    "sale_price": 24.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SJ30",
+    "description": "SCREW JACK 30'' WITH BASE PLATE",
+    "category": "Screw Jack",
+    "rental_price": 2.75,
+    "sale_price": 48.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SJUHEAD",
+    "description": "SCREW JACK UHEAD",
+    "category": "Screw Jack",
+    "rental_price": 2.50,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SJSW",
+    "description": "SCREW JACK SWIVEL WITH BASE PLATE",
+    "category": "Screw Jack",
+    "rental_price": 2.25,
+    "sale_price": 40.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SLABC",
+    "description": "SLAB CLAMP POST",
+    "category": "Slab Clamp",
+    "rental_price": 4.75,
+    "sale_price": 235.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL0.6",
+    "description": "SYSTEM LEDGER 6''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 21.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL1",
+    "description": "SYSTEM LEDGER 12''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 22.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL1.2",
+    "description": "SYSTEM LEDGER 14''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 22.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL1.6",
+    "description": "SYSTEM LEDGER 18''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 22.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL2.2",
+    "description": "SYSTEM LEDGER 26''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 25.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL3",
+    "description": "SYSTEM LEDGER 36''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 26.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL3.6",
+    "description": "SYSTEM LEDGER 42''",
+    "category": "System Ledger",
+    "rental_price": 1.25,
+    "sale_price": 28.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL3.10",
+    "description": "SYSTEM LEDGER 46''",
+    "category": "System Ledger",
+    "rental_price": 1.50,
+    "sale_price": 31.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL4",
+    "description": "SYSTEM LEDGER 48''",
+    "category": "System Ledger",
+    "rental_price": 1.50,
+    "sale_price": 31.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL5",
+    "description": "SYSTEM LEDGER 60''",
+    "category": "System Ledger",
+    "rental_price": 1.75,
+    "sale_price": 33.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL5D",
+    "description": "SYSTEM LEDGER 60'' DOUBLE",
+    "category": "System Ledger",
+    "rental_price": 3.50,
+    "sale_price": 62.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL5.2",
+    "description": "SYSTEM LEDGER 5'2''",
+    "category": "System Ledger",
+    "rental_price": 2.00,
+    "sale_price": 34.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL5.2D",
+    "description": "SYSTEM LEDGER 5'2'' DOUBLE",
+    "category": "System Ledger",
+    "rental_price": 4.00,
+    "sale_price": 62.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL5.4",
+    "description": "SYSTEM LEDGER 5'4\"'",
+    "category": "System Ledger",
+    "rental_price": 2.00,
+    "sale_price": 36.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL5.4D",
+    "description": "SYSTEM LEDGER 5'4\"' DOUBLE",
+    "category": "System Ledger",
+    "rental_price": 4.00,
+    "sale_price": 64.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL6",
+    "description": "SYSTEM LEDGER 6''",
+    "category": "System Ledger",
+    "rental_price": 2.00,
+    "sale_price": 38.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL7",
+    "description": "SYSTEM LEDGER 7'",
+    "category": "System Ledger",
+    "rental_price": 2.25,
+    "sale_price": 42.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL7D",
+    "description": "SYSTEM LEDGER 7' DOUBLE",
+    "category": "System Ledger",
+    "rental_price": 4.50,
+    "sale_price": 83.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL8",
+    "description": "SYSTEM LEDGER 8'",
+    "category": "System Ledger",
+    "rental_price": 2.25,
+    "sale_price": 48.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL8D",
+    "description": "SYSTEM LEDGER 8' DOUBLE",
+    "category": "System Ledger",
+    "rental_price": 4.50,
+    "sale_price": 94.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL9",
+    "description": "SYSTEM LEDGER 9'",
+    "category": "System Ledger",
+    "rental_price": 2.25,
+    "sale_price": 58.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL10",
+    "description": "SYSTEM LEDGER 10'",
+    "category": "System Ledger",
+    "rental_price": 2.50,
+    "sale_price": 61.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL10D",
+    "description": "SYSTEM LEDGER 10' DOUBLE",
+    "category": "System Ledger",
+    "rental_price": 5.00,
+    "sale_price": 118.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL14",
+    "description": "SYSTEM LEDGER 14'",
+    "category": "System Ledger",
+    "rental_price": 3.00,
+    "sale_price": 85.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL17",
+    "description": "SYSTEM LEDGER 17'",
+    "category": "System Ledger",
+    "rental_price": 3.25,
+    "sale_price": 104.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL20",
+    "description": "SYSTEM LEDGER 20'",
+    "category": "System Ledger",
+    "rental_price": 3.50,
+    "sale_price": 123.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL21",
+    "description": "SYSTEM LEDGER 21'",
+    "category": "System Ledger",
+    "rental_price": 4.00,
+    "sale_price": 127.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL24",
+    "description": "SYSTEM LEDGER 24'",
+    "category": "System Ledger",
+    "rental_price": 5.00,
+    "sale_price": 155.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SL28",
+    "description": "SYSTEM LEDGER 28'",
+    "category": "System Ledger",
+    "rental_price": 6.00,
+    "sale_price": 170.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SLS5.2",
+    "description": "SYSTEM LEDGER SLOPED 5'2''",
+    "category": "System Ledger",
+    "rental_price": 4.50,
+    "sale_price": 125.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SLS7",
+    "description": "SYSTEM LEDGER SLOPED 7'",
+    "category": "System Ledger",
+    "rental_price": 5.50,
+    "sale_price": 150.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SP",
+    "description": "SYSTEM PIN",
+    "category": "System Pin",
+    "rental_price": 0.40,
+    "sale_price": 10.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST5.4",
+    "description": "SYSTEM TRUSS 5'4\"",
+    "category": "System Truss",
+    "rental_price": 9.50,
+    "sale_price": 98.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST7",
+    "description": "SYSTEM TRUSS 7''",
+    "category": "System Truss",
+    "rental_price": 10.50,
+    "sale_price": 125.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST8",
+    "description": "SYSTEM TRUSS 8'",
+    "category": "System Truss",
+    "rental_price": 11.25,
+    "sale_price": 142.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST10",
+    "description": "SYSTEM TRUSS 10'",
+    "category": "System Truss",
+    "rental_price": 15.50,
+    "sale_price": 178.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST14",
+    "description": "SYSTEM TRUSS 14'",
+    "category": "System Truss",
+    "rental_price": 22.75,
+    "sale_price": 248.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST17",
+    "description": "SYSTEM TRUSS 17'",
+    "category": "System Truss",
+    "rental_price": 26.50,
+    "sale_price": 305.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST20",
+    "description": "SYSTEM TRUSS 20'",
+    "category": "System Truss",
+    "rental_price": 29.75,
+    "sale_price": 357.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST21",
+    "description": "SYSTEM TRUSS 21'",
+    "category": "System Truss",
+    "rental_price": 32.50,
+    "sale_price": 375.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST24",
+    "description": "SYSTEM TRUSS 24'",
+    "category": "System Truss",
+    "rental_price": 34.75,
+    "sale_price": 428.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "ST28",
+    "description": "SYSTEM TRUSS 28'",
+    "category": "System Truss",
+    "rental_price": 37.50,
+    "sale_price": 515.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STA",
+    "description": "SYSTEM TRANSOM ADAPTER",
+    "category": "System Adapter",
+    "rental_price": 2.00,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STAB",
+    "description": "SCAFFOLD STABILIZER",
+    "category": "Stabilizer",
+    "rental_price": 4.75,
+    "sale_price": 50.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STABBIG",
+    "description": "BIG SCAFFOLD STABILIZER",
+    "category": "Stabilizer",
+    "rental_price": 9.75,
+    "sale_price": 100.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB12",
+    "description": "SYSTEM SIDE BRACKET 12''",
+    "category": "System Side Bracket",
+    "rental_price": 2.50,
+    "sale_price": 29.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB16",
+    "description": "SYSTEM SIDE BRACKET 16''",
+    "category": "System Side Bracket",
+    "rental_price": 3.00,
+    "sale_price": 34.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB24",
+    "description": "SYSTEM SIDE BRACKET 24''",
+    "category": "System Side Bracket",
+    "rental_price": 3.50,
+    "sale_price": 37.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB30",
+    "description": "SYSTEM SIDE BRACKET 30''",
+    "category": "System Side Bracket",
+    "rental_price": 4.00,
+    "sale_price": 39.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB36",
+    "description": "SYSTEM SIDE BRACKET 36''",
+    "category": "System Side Bracket",
+    "rental_price": 4.25,
+    "sale_price": 41.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB3.6",
+    "description": "SYSTEM SIDE BRACKET 3'6''",
+    "category": "System Side Bracket",
+    "rental_price": 4.50,
+    "sale_price": 42.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB3.10",
+    "description": "SYSTEM SIDE BRACKET 3'10''",
+    "category": "System Side Bracket",
+    "rental_price": 4.50,
+    "sale_price": 67.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSB2436",
+    "description": "SYSTEM SIDE BRACKET 24'' TO 36'' ADJ",
+    "category": "System Side Bracket",
+    "rental_price": 4.50,
+    "sale_price": 42.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSJ18",
+    "description": "SYSTEM SCREWJACK 18''",
+    "category": "System Screwjack",
+    "rental_price": 2.50,
+    "sale_price": 24.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSR",
+    "description": "SYSTEM STAIR RISER",
+    "category": "System Stair",
+    "rental_price": 10.00,
+    "sale_price": 135.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSS",
+    "description": "SYSTEM STAIR STEP (TREAD)",
+    "category": "System Stair",
+    "rental_price": 2.00,
+    "sale_price": 56.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSUS",
+    "description": "STANDARD SUSPENDER",
+    "category": "Suspender",
+    "rental_price": 2.00,
+    "sale_price": 28.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSLB",
+    "description": "SYSTEM STAIR TOWER LIFT BEAM",
+    "category": "System Stair",
+    "rental_price": 30.00,
+    "sale_price": 500.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SSTR",
+    "description": "SYSTEM STORAGE RACK (107 LBS)",
+    "category": "Storage Rack",
+    "rental_price": 15.00,
+    "sale_price": 200.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SMR",
+    "description": "STORAGE MESH RACK (MESH ONLY) (241LBS)",
+    "category": "Storage Rack",
+    "rental_price": 20.00,
+    "sale_price": 300.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SMC",
+    "description": "STORAGE MESH CAGE (WELDED MESH) 182LBS",
+    "category": "Storage Rack",
+    "rental_price": 25.00,
+    "sale_price": 600.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SPR",
+    "description": "STORAGE PLATFORM RACK",
+    "category": "Storage Rack",
+    "rental_price": 6.25,
+    "sale_price": 125.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STDBC",
+    "description": "STANDARD BASE COLLAR",
+    "category": "Standard",
+    "rental_price": 1.25,
+    "sale_price": 15.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD0.5",
+    "description": "STANDARD 0.5 METER",
+    "category": "Standard",
+    "rental_price": 1.50,
+    "sale_price": 20.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD1",
+    "description": "STANDARD 1 METER",
+    "category": "Standard",
+    "rental_price": 2.00,
+    "sale_price": 30.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD1.5",
+    "description": "STANDARD 1.5 METER",
+    "category": "Standard",
+    "rental_price": 2.50,
+    "sale_price": 40.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD2",
+    "description": "STANDARD 2 METER",
+    "category": "Standard",
+    "rental_price": 3.00,
+    "sale_price": 48.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD2S",
+    "description": "STANDARD 2 METER SPECIAL",
+    "category": "Standard",
+    "rental_price": 4.00,
+    "sale_price": 60.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD2.5",
+    "description": "STANDARD 2.5 METER",
+    "category": "Standard",
+    "rental_price": 3.50,
+    "sale_price": 65.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "STD3",
+    "description": "STANDARD 3 METER",
+    "category": "Standard",
+    "rental_price": 4.00,
+    "sale_price": 84.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SWSL",
+    "description": "SWIVEL TO LEDGER",
+    "category": "Swivel Clamp",
+    "rental_price": 1.25,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SW",
+    "description": "SWIVEL CLAMP",
+    "category": "Swivel Clamp",
+    "rental_price": 1.00,
+    "sale_price": 15.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SWW",
+    "description": "SWIVEL WEDGE CLAMP",
+    "category": "Swivel Clamp",
+    "rental_price": 1.00,
+    "sale_price": 15.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "SWBEAM",
+    "description": "SWIVEL BEAM CLAMP",
+    "category": "Swivel Clamp",
+    "rental_price": 1.00,
+    "sale_price": 18.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "TB5/8",
+    "description": "TURN BUCKLE 5/8",
+    "category": "Turn Buckle",
+    "rental_price": 2.50,
+    "sale_price": 35.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "TB3/4",
+    "description": "TURN BUCKLE 3/4",
+    "category": "Turn Buckle",
+    "rental_price": 5.00,
+    "sale_price": 45.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "TESS",
+    "description": "TOTAL ENCLOSURE SAIL SYSTEM POLE",
+    "category": "Enclosure System",
+    "rental_price": 3.00,
+    "sale_price": 60.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "TFLY5.10",
+    "description": "TRUSS FLY-FORM 5'10''",
+    "category": "Truss Fly-Form",
+    "rental_price": 30.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "TFLY10.10",
+    "description": "TRUSS FLY-FORM 10'10''",
+    "category": "Truss Fly-Form",
+    "rental_price": 40.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "U-HEAD",
+    "description": "U-HEAD BASE PLATE",
+    "category": "U-Head",
+    "rental_price": 1.00,
+    "sale_price": 20.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "VERSAC",
+    "description": "VERSA CLAMP POST (PARAPET & SLAB)",
+    "category": "Versa Clamp",
+    "rental_price": 11.50,
+    "sale_price": 275.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "W",
+    "description": "WEIGHT 55 LBS",
+    "category": "Weight",
+    "rental_price": 7.00,
+    "sale_price": null,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WAGON",
+    "description": "SCAFFOLD WAGON ON 16'' WHEEL",
+    "category": "Wagon",
+    "rental_price": 98.00,
+    "sale_price": 850.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP1",
+    "description": "WOOD PLANK 1' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 0.50,
+    "sale_price": 11.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP2",
+    "description": "WOOD PLANK 2' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 1.00,
+    "sale_price": 21.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP4",
+    "description": "WOOD PLANK 4' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 2.50,
+    "sale_price": 42.75,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP5",
+    "description": "WOOD PLANK 5' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 2.75,
+    "sale_price": 53.25,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP6",
+    "description": "WOOD PLANK 6' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 3.00,
+    "sale_price": 64.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP8",
+    "description": "WOOD PLANK 8' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 4.00,
+    "sale_price": 85.50,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP10",
+    "description": "WOOD PLANK 10' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 4.50,
+    "sale_price": 106.65,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP12",
+    "description": "WOOD PLANK 12' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 5.00,
+    "sale_price": 128.00,
+    "type": "scaffolding"
+  },
+  {
+    "id": "WP16",
+    "description": "WOOD PLANK 16' STARR FOREST LAM",
+    "category": "Wood Plank",
+    "rental_price": 6.00,
+    "sale_price": 170.64,
+    "type": "scaffolding"
+  },
+
+
+
+
+
+  {
+    "id": "2X4X8",
+    "description": "LUMBER 2'' X 4'' X 8'",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 9.04,
+    "type": "construction materials"
+  },
+  {
+    "id": "2X4X10",
+    "description": "LUMBER 2'' X 4'' X 10'",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 11.73,
+    "type": "construction materials"
+  },
+  {
+    "id": "2X4X12",
+    "description": "LUMBER 2'' X 4'' X 12'",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 12.97,
+    "type": "construction materials"
+  },
+  {
+    "id": "PLY48 1/2",
+    "description": "PLYWOOD 4' X 8' X 1/2'' (12.5MM)",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 53.13,
+    "type": "construction materials"
+  },
+  {
+    "id": "PLY48 5/8",
+    "description": "PLYWOOD 4' X 8' X 5/8'' (15.5MM)",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 69.69,
+    "type": "construction materials"
+  },
+  {
+    "id": "PLY48 3/4",
+    "description": "PLYWOOD 4' X 8' X 3/4'' (18.5MM)",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 81.42,
+    "type": "construction materials"
+  },
+  {
+    "id": "FMPLY48 3/4",
+    "description": "ULTRAFORM PLYWOOD 4' X 8' X 3/4''",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 115.0,
+    "type": "construction materials"
+  },
+  {
+    "id": "3SWR",
+    "description": "3 STEP WOOD RISER",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 51.75,
+    "type": "construction materials"
+  },
+  {
+    "id": "4SWR",
+    "description": "4 STEP WOOD RISER",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 63.25,
+    "type": "construction materials"
+  },
+  {
+    "id": "5SWR",
+    "description": "5 STEP WOOD RISER",
+    "category": "LUMBER & WOOD SHEETING",
+    "sale_price": 74.75,
+    "type": "construction materials"
+  },
+  {
+    "id": "INSULR12",
+    "description": "R12 INSULATION BAG 15 X 47 X 3.5 = 97.9 sq. ft.",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 62.8,
+    "type": "construction materials"
+  },
+  {
+    "id": "STYRO228",
+    "description": "STYROSPAN 2'' X 2' X 8'",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 45.53,
+    "type": "construction materials"
+  },
+  {
+    "id": "POLY6",
+    "description": "POLYPLASTIC ROLL 6' X 100'",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 63.25,
+    "type": "construction materials"
+  },
+  {
+    "id": "SANDB",
+    "description": "SAND BAGS",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 8.28,
+    "type": "construction materials"
+  },
+  {
+    "id": "NCCM",
+    "description": "NCC MOULDING (PER LINEAR FEET)",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 3.42,
+    "type": "construction materials"
+  },
+  {
+    "id": "NCCDG",
+    "description": "NCC DARK GRAY 5 GAL.",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 382.72,
+    "type": "construction materials"
+  },
+  {
+    "id": "NCCCG",
+    "description": "NCC COOL GREY 5 GAL.",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 328.9,
+    "type": "construction materials"
+  },
+  {
+    "id": "NCCPRM",
+    "description": "NCC PRIMER 5 GAL.",
+    "category": "BUILDING MATERIALS",
+    "sale_price": 309.93,
+    "type": "construction materials"
+  },
+  {
+    "id": "FLEXTRA",
+    "description": "300 ML TUBE",
+    "category": "ROOFING MATERIALS",
+    "sale_price": 14.54,
+    "type": "construction materials"
+  },
+  {
+    "id": "SOPRASEAL",
+    "description": "SOPRASEAL STICK 36'' X 75' ROLL",
+    "category": "ROOFING MATERIALS",
+    "sale_price": 169.51,
+    "type": "construction materials"
+  },
+  {
+    "id": "GLUE",
+    "description": "ELASTOCOL STICK 5G PAIL (1G = 100 SQ ')",
+    "category": "ROOFING MATERIALS",
+    "sale_price": 207.46,
+    "type": "construction materials"
+  },
+  {
+    "id": "NAIL 1 1/2''",
+    "description": "1 1/2inch NAILS - 25 LBS BOX",
+    "category": "HARDWARE",
+    "sale_price": 62.49,
+    "type": "construction materials"
+  },
+  {
+    "id": "NAIL 1 1/2''",
+    "description": "1 1/2inch NAILS - 50 LBS BOX",
+    "category": "HARDWARE",
+    "sale_price": 121.5,
+    "type": "construction materials"
+  },
+  {
+    "id": "NAIL 2 1/2''",
+    "description": "2 1/2inch NAILS - 25 LBS BOX",
+    "category": "HARDWARE",
+    "sale_price": 87.71,
+    "type": "construction materials"
+  },
+  {
+    "id": "NAIL 2 1/2''",
+    "description": "2 1/2inch NAILS - 50 LBS BOX",
+    "category": "HARDWARE",
+    "sale_price": 171.07,
+    "type": "construction materials"
+  },
+  {
+    "id": "NAIL3''",
+    "description": "3inch NAILS - 25 LBS BOX",
+    "category": "HARDWARE",
+    "sale_price": 98.38,
+    "type": "construction materials"
+  },
+  {
+    "id": "NAIL3''",
+    "description": "3inch NAILS - 50 LBS BOX",
+    "category": "HARDWARE",
+    "sale_price": 187.22,
+    "type": "construction materials"
+  },
+  {
+    "id": "SCREW 1 1/2''",
+    "description": "1 1/2inch - 5000 QTY BOX",
+    "category": "HARDWARE",
+    "sale_price": 124.6,
+    "type": "construction materials"
+  },
+  {
+    "id": "SCREW 2 1/2''",
+    "description": "2 1/2 inch - 3000 QTY BOX",
+    "category": "HARDWARE",
+    "sale_price": 116.66,
+    "type": "construction materials"
+  },
+  {
+    "id": "PIPECLAMP",
+    "description": "1 1/4'' PIPE CLAMP",
+    "category": "HARDWARE",
+    "sale_price": 1.29,
+    "type": "construction materials"
+  },
+  {
+    "id": "PIPECLAMP",
+    "description": "1 1/2'' PIPE CLAMP",
+    "category": "HARDWARE",
+    "sale_price": 1.29,
+    "type": "construction materials"
+  },
+  {
+    "id": "DHINGE",
+    "description": "DOOR HINGE",
+    "category": "HARDWARE",
+    "sale_price": 5.43,
+    "type": "construction materials"
+  },
+  {
+    "id": "DLATCH",
+    "description": "DOOR LATCH",
+    "category": "HARDWARE",
+    "sale_price": 7.48,
+    "type": "construction materials"
+  },
+  {
+    "id": "FENDERW",
+    "description": "1'' X 1/4'' FENDER WASHER",
+    "category": "HARDWARE",
+    "sale_price": 0.28,
+    "type": "construction materials"
+  },
+  {
+    "id": "SSFENDERW",
+    "description": "1'' X 1/4'' SS FENDER WASHER",
+    "category": "HARDWARE",
+    "sale_price": 0.43,
+    "type": "construction materials"
+  },
+  {
+    "id": "ANC3/8",
+    "description": "SLEEVE ANCHOR 3/8 X 3'' each",
+    "category": "HARDWARE",
+    "sale_price": 2.66,
+    "type": "construction materials"
+  },
+  {
+    "id": "ANC1/2",
+    "description": "SLEEVE ANCHOR 1/2 X 3'' each",
+    "category": "HARDWARE",
+    "sale_price": 3.29,
+    "type": "construction materials"
+  },
+  {
+    "id": "ANC5/8",
+    "description": "SLEEVE ANCHOR 5/8 X 4-1/4 each",
+    "category": "HARDWARE",
+    "sale_price": 6.96,
+    "type": "construction materials"
+  },
+  {
+    "id": "ANC1/2",
+    "description": "SLEEVE ANCHOR 1/2 X 6\" each",
+    "category": "HARDWARE",
+    "sale_price": 5.9,
+    "type": "construction materials"
+  },
+  {
+    "id": "ANC5/8",
+    "description": "SLEEVE ANCHOR 5/8 X 6'' each",
+    "category": "HARDWARE",
+    "sale_price": 10.75,
+    "type": "construction materials"
+  },
+  {
+    "id": "ANC3/4",
+    "description": "SLEEVE ANCHOR 3/4 X 6'' each",
+    "category": "HARDWARE",
+    "sale_price": 16.45,
+    "type": "construction materials"
+  },
+  {
+    "id": "LB",
+    "description": "LIGHT BULB",
+    "category": "HARDWARE",
+    "sale_price": 3.8,
+    "type": "construction materials"
+  },
+  {
+    "id": "STRL",
+    "description": "STRING LIGHT 100' (10 LIGHT BULB)",
+    "category": "HARDWARE",
+    "sale_price": 226.91,
+    "type": "construction materials"
+  },
+  {
+    "id": "OGEAROIL",
+    "description": "OPEN GEAR OIL",
+    "category": "HARDWARE",
+    "sale_price": 23.44,
+    "type": "construction materials"
+  },
+  {
+    "id": "CDT",
+    "description": "CAUTION/DANGER TAPE",
+    "category": "HARDWARE",
+    "sale_price": 17.25,
+    "type": "construction materials"
+  },
+  {
+    "id": "TAPSW",
+    "description": "SELF-DRILLING METAL SCREW (TAP SCREW)",
+    "category": "HARDWARE",
+    "sale_price": 1.35,
+    "type": "construction materials"
+  },
+  {
+    "id": "TAPSWB",
+    "description": "SELF-DRILLING METAL SCREW (TAP SCREW) 2000BOX",
+    "category": "HARDWARE",
+    "sale_price": 2707.82,
+    "type": "construction materials"
+  },
+  {
+    "id": "TCBIT",
+    "description": "TAPCON DRILL BIT 1/4",
+    "category": "HARDWARE",
+    "sale_price": 31.03,
+    "type": "construction materials"
+  },
+  {
+    "id": "TCDR5/16",
+    "description": "TAPCON DRIVER 5/16",
+    "category": "HARDWARE",
+    "sale_price": 23.15,
+    "type": "construction materials"
+  },
+  {
+    "id": "TC1 1/4",
+    "description": "TAPCON 1/4 X 1 1/4 100BOX",
+    "category": "HARDWARE",
+    "sale_price": 69.58,
+    "type": "construction materials"
+  },
+  {
+    "id": "TC2 1/4",
+    "description": "TAPCON 1/4 X 2 1/4 100BOX",
+    "category": "HARDWARE",
+    "sale_price": 84.38,
+    "type": "construction materials"
+  },
+  {
+    "id": "TC3 1/4",
+    "description": "TAPCON 1/4 X 3 1/4 100BOX",
+    "category": "HARDWARE",
+    "sale_price": 135.25,
+    "type": "construction materials"
+  },
+  {
+    "id": "TW",
+    "description": "TIE WIRE",
+    "category": "HARDWARE",
+    "sale_price": 7.19,
+    "type": "construction materials"
+  },
+  {
+    "id": "9TW",
+    "description": "#9 TIE WIRE",
+    "category": "HARDWARE",
+    "sale_price": 121.16,
+    "type": "construction materials"
+  },
+  {
+    "id": "SKB6",
+    "description": "SKILL SAW BLADE 6 1/2",
+    "category": "HARDWARE",
+    "sale_price": 39.69,
+    "type": "construction materials"
+  },
+  {
+    "id": "SKB7",
+    "description": "SKILL SAW BLADE 7 1/4",
+    "category": "HARDWARE",
+    "sale_price": 29.36,
+    "type": "construction materials"
+  },
+  {
+    "id": "RSB12",
+    "description": "RECIP. SAW BLADE 12\"",
+    "category": "HARDWARE",
+    "sale_price": 9.82,
+    "type": "construction materials"
+  },
+  {
+    "id": "RSB9",
+    "description": "RECIP. SAW BLADE 9\"",
+    "category": "HARDWARE",
+    "sale_price": 15.53,
+    "type": "construction materials"
+  },
+  {
+    "id": "SDS316",
+    "description": "SDS BIT 3/16 X 6''",
+    "category": "HARDWARE",
+    "sale_price": 27.83,
+    "type": "construction materials"
+  },
+  {
+    "id": "SDS38",
+    "description": "SDS BIT 3/8 X 6''",
+    "category": "HARDWARE",
+    "sale_price": 37.95,
+    "type": "construction materials"
+  },
+  {
+    "id": "SDS12",
+    "description": "SDSBIT 1/2 X 6''",
+    "category": "HARDWARE",
+    "sale_price": 63.25,
+    "type": "construction materials"
+  },
+  {
+    "id": "SDS58",
+    "description": "SDSBIT 5/8 X 6''",
+    "category": "HARDWARE",
+    "sale_price": 88.55,
+    "type": "construction materials"
+  },
+  {
+    "id": "SQRDB",
+    "description": "SQUARE DRILL BIT #2",
+    "category": "HARDWARE",
+    "sale_price": 2.47,
+    "type": "construction materials"
+  },
+  {
+    "id": "STAGEGUARD",
+    "description": "STAGE GUARD NETTING 3'6\"x150' BLACK FR",
+    "category": "COVERINGS",
+    "sale_price": 118.91,
+    "type": "construction materials"
+  },
+  {
+    "id": "PRIVACYFEN",
+    "description": "PRIVACY FENCE 5'8\"X150'",
+    "category": "COVERINGS",
+    "sale_price": 201.14,
+    "type": "construction materials"
+  },
+  {
+    "id": "SAFETYNET",
+    "description": "SAFETY DEBRIS NETTING 8'6\"X150' W/ORANGE STRIPES",
+    "category": "COVERINGS",
+    "sale_price": 332.93,
+    "type": "construction materials"
+  },
+  {
+    "id": "DEBRISNET35",
+    "description": "DEBRIS NET 10'x150' (35%) (BLUE) FR",
+    "category": "COVERINGS",
+    "sale_price": 218.5,
+    "type": "construction materials"
+  },
+  {
+    "id": "DEBRISNET35",
+    "description": "DEBRIS NET 10'x150' (35%) (TAN) FR",
+    "category": "COVERINGS",
+    "sale_price": 297.28,
+    "type": "construction materials"
+  },
+  {
+    "id": "DEBRISNET35",
+    "description": "DEBRIS NET 10'x150' (35%) (BLACK/GREEN) FR",
+    "category": "COVERINGS",
+    "sale_price": 239.72,
+    "type": "construction materials"
+  },
+  {
+    "id": "DEBRISNET70",
+    "description": "DEBRIS NET 10'x150' (70%) (BLACK/GREEN) FR",
+    "category": "COVERINGS",
+    "sale_price": 320.85,
+    "type": "construction materials"
+  },
+  {
+    "id": "DEBRISNET6.6",
+    "description": "DEBRIS NETTING 6'6\"x150' (35%) BLACK FR",
+    "category": "COVERINGS",
+    "sale_price": 162.23,
+    "type": "construction materials"
+  },
+  {
+    "id": "EAGLE13100",
+    "description": "13'x100' 250 GSM SCAFFSHEATING 12 MIL",
+    "category": "COVERINGS",
+    "sale_price": 371.35,
+    "type": "construction materials"
+  },
+  {
+    "id": "EAGLE74136",
+    "description": "7'4''x136' 250 GSM SCAFFSHEATING 12 MIL",
+    "category": "COVERINGS",
+    "sale_price": 322.58,
+    "type": "construction materials"
+  },
+  {
+    "id": "BUNGEE",
+    "description": "BUNGEE BAG (PACK OF 100 QTY)",
+    "category": "COVERINGS",
+    "sale_price": 52.27,
+    "type": "construction materials"
+  },
+  {
+    "id": "TWRP",
+    "description": "TIE WRAP BAG (PACK OF 500 QTY)",
+    "category": "COVERINGS",
+    "sale_price": 57.5,
+    "type": "construction materials"
+  },
+  {
+    "id": "TWRP",
+    "description": "TIE WRAP BAG (PACK OF 1000 QTY)",
+    "category": "COVERINGS",
+    "sale_price": null,
+    "type": "construction materials"
+  },
+  {
+    "id": "SRWLOC",
+    "description": "SCREW-LOC CONNECTORS (PACK OF 500 QTY)",
+    "category": "COVERINGS",
+    "sale_price": 392.15,
+    "type": "construction materials"
+  },
+  {
+    "id": "TAPE4",
+    "description": "4\" TAPE ENSCAF",
+    "category": "COVERINGS",
+    "sale_price": 21.61,
+    "type": "construction materials"
+  },
+  {
+    "id": "TAPE6",
+    "description": "6\" TAPE ENSCAF",
+    "category": "COVERINGS",
+    "sale_price": 37.16,
+    "type": "construction materials"
+  },
+  {
+    "id": "ZIPDOR",
+    "description": "ZIPPER ACCESS DOOR 54 X 72",
+    "category": "COVERINGS",
+    "sale_price": 125.24,
+    "type": "construction materials"
+  },
+  {
+    "id": "SHWRP2075",
+    "description": "12MIL SHRINK WRAP 20 X 75",
+    "category": "COVERINGS",
+    "sale_price": 660.64,
+    "type": "construction materials"
+  },
+  {
+    "id": "SHWRP3270",
+    "description": "12MIL SHRINK WRAP 32 X 70",
+    "category": "COVERINGS",
+    "sale_price": 795.34,
+    "type": "construction materials"
+  },
+  {
+    "id": "TORCHKIT",
+    "description": "SHRINK WRAP HEAT TORCH",
+    "category": "COVERINGS",
+    "sale_price": 1010.74,
+    "type": "construction materials"
+  },
+  {
+    "id": "HEATGUN",
+    "description": "SHRINK FAST 998 HEAT GUN",
+    "category": "COVERINGS",
+    "sale_price": 1010.74,
+    "type": "construction materials"
+  },
+  {
+    "id": "INTARP2020",
+    "description": "INSULATED TARPS 20X20 ORANGE",
+    "category": "COVERINGS",
+    "sale_price": 137.99,
+    "type": "construction materials"
+  },
+  {
+    "id": "INTARP1220",
+    "description": "INSULATED TARPS 12X20 ORANGE",
+    "category": "COVERINGS",
+    "sale_price": 88.37,
+    "type": "construction materials"
+  },
+  {
+    "id": "INSTARP1224",
+    "description": "INSULATED TARPS 12X24 ORANGE",
+    "category": "COVERINGS",
+    "sale_price": 98.04,
+    "type": "construction materials"
+  },
+  {
+    "id": "FRWEAVE1520",
+    "description": "FIRE RATED 10X10WEAVE 15'X20'",
+    "category": "COVERINGS",
+    "sale_price": 98.14,
+    "type": "construction materials"
+  },
+  {
+    "id": "FRWEAVE2030",
+    "description": "FIRE RATED 10X10WEAVE 20'X30'",
+    "category": "COVERINGS",
+    "sale_price": 201.14,
+    "type": "construction materials"
+  }
+]
+
