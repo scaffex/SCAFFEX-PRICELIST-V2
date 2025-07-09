@@ -1,0 +1,1344 @@
+/* Basic Reset & Body Styling */
+:root {
+  --bg-color: #f4f4f4;
+  --panel-bg: #fff;
+  --text-color: #333;
+  --border-color: #ddd;
+  --hover-bg: #f0f8ff;
+  --header-bg: #e9ecef;
+  --input-bg: #fff;
+  --input-border: #ccc;
+  --button-green: #28a745;
+  --button-green-hover: #218838;
+  --button-red: #dc3545;
+  --button-red-hover: #c82333;
+  --button-blue: #007bff;
+  --button-blue-hover: #0056b3;
+  --button-yellow: #ffc107;
+  --button-yellow-hover: #e0a800;
+  --transition-speed: 0.3s;
+  --tab-active-bg: var(--button-blue);
+  --tab-active-text: white;
+  --tab-inactive-bg: #e0e0e0;
+  --tab-inactive-text: #555;
+  --scaffolding-highlight: rgba(173, 216, 230, 0.2);
+  --cm-highlight: rgba(240, 230, 140, 0.2);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  transition: background-color var(--transition-speed),
+    color var(--transition-speed);
+  height: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* --- Left Panel Top Bar (Title & Dark Mode Toggle) --- */
+.left-panel-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.left-panel-top-bar h1 {
+  font-size: 1.2em;
+  margin: 0;
+  border-bottom: none;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.left-panel-top-bar .dark-mode-toggle-container {
+  display: flex;
+  align-items: center;
+}
+.left-panel-top-bar .dark-mode-toggle-container .dm-label {
+  margin-left: 6px;
+  font-size: 0.75em;
+  cursor: pointer;
+}
+.left-panel-top-bar .switch {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 16px;
+}
+.left-panel-top-bar .switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.left-panel-top-bar .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+}
+.left-panel-top-bar .slider:before {
+  position: absolute;
+  content: '';
+  height: 10px;
+  width: 10px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: 0.4s;
+}
+.left-panel-top-bar input:checked + .slider {
+  background-color: var(--button-blue);
+}
+.left-panel-top-bar input:focus + .slider {
+  box-shadow: 0 0 1px var(--button-blue);
+}
+.left-panel-top-bar input:checked + .slider:before {
+  transform: translateX(14px);
+}
+.left-panel-top-bar .slider.round {
+  border-radius: 16px;
+}
+.left-panel-top-bar .slider.round:before {
+  border-radius: 50%;
+}
+
+/* --- Dark Mode Specifics --- */
+body.dark-mode {
+  --bg-color: #1a1a1a;
+  --panel-bg: #2c2c2c;
+  --text-color: #e0e0e0;
+  --border-color: #444;
+  --hover-bg: #3a4a5a;
+  --header-bg: #333;
+  --input-bg: #444;
+  --input-border: #666;
+  --tab-active-bg: var(--button-blue);
+  --tab-active-border: var(--button-blue-hover);
+  --tab-inactive-bg: #3a3a3a;
+  --tab-inactive-text: #bbb;
+  --scaffolding-highlight: rgba(70, 130, 180, 0.2);
+  --cm-highlight: rgba(189, 183, 107, 0.2);
+}
+body.dark-mode .left-panel-top-bar h1 {
+  color: #e0e0e0;
+}
+body.dark-mode .left-panel-top-bar {
+  border-bottom-color: #444;
+}
+body.dark-mode h2 {
+  color: #e0e0e0;
+  border-bottom-color: #444;
+}
+body.dark-mode .search-results-title {
+  color: #b0b0b0;
+  border-bottom-color: #444;
+}
+body.dark-mode #results-list li {
+  border-bottom-color: #444;
+}
+body.dark-mode #results-list li small {
+  color: #aaa;
+}
+body.dark-mode #scaffolding-pricelist-table th,
+body.dark-mode #scaffolding-pricelist-table td,
+body.dark-mode #cm-pricelist-table th,
+body.dark-mode #cm-pricelist-table td {
+  border-color: #555;
+}
+body.dark-mode #scaffolding-pricelist-table thead th,
+body.dark-mode #cm-pricelist-table thead th {
+  background-color: var(--header-bg);
+}
+body.dark-mode input,
+body.dark-mode textarea {
+  background-color: var(--input-bg);
+  border-color: var(--input-border);
+  color: var(--text-color);
+}
+body.dark-mode input::placeholder,
+body.dark-mode textarea::placeholder {
+  color: #888;
+}
+body.dark-mode .search-section-container,
+body.dark-mode .results-container,
+body.dark-mode .tab-content {
+  background-color: var(--panel-bg);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+body.dark-mode .left-panel {
+  background-color: #222;
+}
+body.dark-mode .right-panel {
+  background-color: var(--panel-bg);
+}
+body.dark-mode .controls-container {
+  border-bottom-color: #444;
+}
+body.dark-mode .tab-buttons-container {
+  border-bottom-color: #444;
+}
+body.dark-mode .tab-button {
+  background-color: var(--tab-inactive-bg);
+  color: var(--tab-inactive-text);
+  border-color: transparent;
+}
+body.dark-mode .tab-button.active {
+  background-color: var(--panel-bg);
+  color: var(--tab-active-bg);
+  border-color: var(--border-color) var(--border-color) var(--panel-bg) !important;
+}
+body.dark-mode .item-type-filter-container .filter-group-label,
+body.dark-mode .item-type-filter-container label {
+  color: #ccc;
+}
+body.dark-mode .subtle-button {
+  color: var(--button-blue-hover);
+  border-color: var(--button-blue-hover);
+}
+body.dark-mode .subtle-button:hover {
+  background-color: rgba(0, 100, 200, 0.25);
+}
+body.dark-mode .modal-content {
+  background-color: #383838;
+  border-color: #555;
+}
+body.dark-mode .modal-controls input[type='text'] {
+  background-color: #444;
+  border-color: #666;
+  color: #e0e0e0;
+}
+
+body.dark-mode #jsonFileInput::file-selector-button {
+  background-color: var(--button-blue-hover);
+  color: white;
+  border: none;
+}
+body.dark-mode #jsonFileInput::file-selector-button:hover {
+  background-color: var(--button-blue);
+}
+
+body.dark-mode .file-status-display {
+  color: var(--text-color);
+  background-color: var(--input-bg);
+  border-color: var(--input-border);
+}
+body.dark-mode .file-status-display.loaded {
+  border-color: var(--button-green-hover);
+  color: var(--text-color);
+}
+
+body.dark-mode #jsonFileInput.file-loaded-successfully::file-selector-button {
+  background-color: var(--button-green-hover) !important;
+}
+body.dark-mode
+  #jsonFileInput.file-loaded-successfully::file-selector-button:hover {
+  background-color: var(--button-green) !important;
+}
+
+/* Panel H2 titles (within tab content) */
+.tab-content h2 {
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  font-size: 1.1em;
+  transition: color var(--transition-speed),
+    border-bottom-color var(--transition-speed);
+}
+
+/* Smaller "Search Results" heading */
+.results-container .search-results-title {
+  font-size: 0.9em !important;
+  font-weight: 600;
+  color: #444;
+  margin: 0 0 8px 0 !important;
+  padding: 5px 0 3px 0 !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
+body.dark-mode .results-container .search-results-title {
+  color: #bbb;
+}
+
+/* --- Left Panel general styling --- */
+.left-panel {
+  flex: 0.4;
+  background-color: #f9f9f9;
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  box-sizing: border-box;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
+  transition: background-color var(--transition-speed),
+    border-right-color var(--transition-speed), flex var(--transition-speed);
+}
+
+/* --- Controls Container (File Input) --- */
+.controls-container {
+  align-items: center;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid var(--border-color);
+}
+.load-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#jsonFileInput {
+  border: none;
+  padding: 0;
+  color: transparent;
+  background-color: transparent;
+  width: auto;
+  flex-shrink: 0;
+}
+#jsonFileInput.file-loaded-successfully::file-selector-button {
+  background-color: var(--button-green) !important;
+}
+#jsonFileInput.file-loaded-successfully::file-selector-button:hover {
+  background-color: var(--button-green-hover) !important;
+}
+
+#jsonFileInput::file-selector-button {
+  background-color: var(--button-blue);
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+#jsonFileInput::file-selector-button:hover {
+  background-color: var(--button-blue-hover);
+}
+
+.file-status-display {
+  font-size: 0.85em;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--border-color);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-grow: 1;
+  min-width: 0;
+  text-align: left;
+  transition: border-color 0.2s ease, color 0.2s ease,
+    background-color 0.2s ease;
+}
+.file-status-display.loaded {
+  border-color: var(--button-green);
+}
+
+/* --- Search Section Styling --- */
+.search-section-container {
+  background-color: var(--panel-bg);
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+.search-label-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 8px;
+}
+.search-label-actions label[for='search-input'] {
+  font-weight: 600;
+  margin-bottom: 0;
+  font-size: 0.95em;
+}
+.subtle-button {
+  background-color: transparent;
+  color: var(--button-blue);
+  border: 1px solid var(--button-blue);
+  padding: 3px 7px;
+  font-size: 0.75em;
+  border-radius: 3px;
+  line-height: 1.4;
+  cursor: pointer;
+}
+.subtle-button:hover {
+  background-color: rgba(0, 123, 255, 0.1);
+}
+
+/* --- Item Type Filters (Smaller) --- */
+.item-type-filter-container {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border-color);
+  font-size: 0.8em;
+}
+.item-type-filter-container .filter-group-label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 5px;
+}
+.item-type-filter-container .radio-group label {
+  margin-right: 3px;
+  cursor: pointer;
+}
+.item-type-filter-container input[type='radio'] {
+  margin-right: 1px;
+  vertical-align: middle;
+  transform: scale(0.85);
+}
+.item-type-filter-container .radio-group label:not(:first-of-type) {
+  margin-left: 8px;
+}
+
+/* --- Main Layout --- */
+.main-container {
+  display: flex;
+  height: 100vh;
+}
+.right-panel {
+  flex: 0.6;
+  background-color: var(--panel-bg);
+  display: flex;
+  flex-direction: column;
+  transition: background-color var(--transition-speed),
+    flex var(--transition-speed);
+  overflow: hidden;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+/* --- Results Container --- */
+.results-container {
+  background-color: var(--panel-bg);
+  padding: 12px;
+  margin-bottom: 0;
+  border-radius: 6px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  transition: background-color var(--transition-speed);
+  flex-grow: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+#search-input {
+  width: calc(100% - 18px);
+  margin-bottom: 8px;
+  padding: 8px;
+  font-size: 0.9em;
+}
+.toggle-container {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 8px;
+}
+body.dark-mode .toggle-container {
+  color: #aaa;
+}
+.toggle-container label {
+  margin-left: 5px;
+  cursor: pointer;
+}
+#results-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+  flex-grow: 1;
+  overflow-y: auto;
+  border: none;
+  border-radius: 4px;
+  transition: border-color var(--transition-speed);
+}
+#results-list li {
+  border-bottom: 1px solid var(--border-color);
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  transition: background-color 0.2s ease;
+  cursor: pointer;
+}
+#results-list li:last-child {
+  border-bottom: none;
+}
+#results-list li:hover {
+  background-color: var(--hover-bg);
+}
+#results-list li .item-details {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+#results-list li small {
+  display: block;
+  color: #666;
+  font-size: 0.85em;
+  margin-top: 3px;
+}
+#results-list li .item-actions {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin-top: 5px;
+}
+#results-list li .result-quantity-input {
+  width: 50px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid var(--input-border);
+  border-radius: 4px;
+  margin-right: 8px;
+  font-size: 0.9em;
+}
+#results-list li .add-button {
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: var(--button-green);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.85em;
+  white-space: nowrap;
+  transition: background-color 0.2s ease;
+}
+#results-list li .add-button:hover {
+  background-color: var(--button-green-hover);
+}
+
+#results-list li.item-type-scaffolding {
+  border-left: 3px solid var(--button-blue);
+  background-color: var(--scaffolding-highlight);
+}
+#results-list li.item-type-cm {
+  border-left: 3px solid var(--button-yellow);
+  background-color: var(--cm-highlight);
+}
+body.dark-mode #results-list li.item-type-scaffolding {
+  border-left-color: var(--button-blue-hover);
+}
+body.dark-mode #results-list li.item-type-cm {
+  border-left-color: var(--button-yellow-hover);
+}
+
+/* --- Tabs --- */
+.tab-buttons-container {
+  display: flex;
+  margin-bottom: -1px;
+  border-bottom: 1px solid var(--border-color);
+}
+.tab-button {
+  padding: 10px 15px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-bottom: none;
+  background-color: var(--tab-inactive-bg);
+  color: var(--tab-inactive-text);
+  font-weight: 500;
+  margin-right: 2px;
+  border-radius: 5px 5px 0 0;
+  position: relative;
+  top: 1px;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s,
+    box-shadow 0.2s;
+  font-size: 0.9em;
+}
+.tab-button.active {
+  background-color: var(--panel-bg);
+  color: var(--tab-active-bg);
+  border-color: var(--border-color) var(--border-color) var(--panel-bg);
+  font-weight: 600;
+  box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.tab-content {
+  display: none;
+  padding: 15px;
+  border: 1px solid var(--border-color);
+  border-radius: 0 6px 6px 6px;
+  background-color: var(--panel-bg);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  flex-grow: 1;
+  display: none;
+  flex-direction: column;
+  overflow: hidden;
+}
+.tab-content.active {
+  display: flex;
+}
+
+/* --- Pricelist Tables (Sticky Headers) --- */
+.pricelist-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.table-wrapper {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+#scaffolding-pricelist-table,
+#cm-pricelist-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+#scaffolding-pricelist-table th,
+#scaffolding-pricelist-table td,
+#cm-pricelist-table th,
+#cm-pricelist-table td {
+  border: 1px solid var(--border-color);
+  padding: 5px;
+  text-align: left;
+  vertical-align: middle;
+  font-size: 0.8em;
+  transition: border-color var(--transition-speed),
+    background-color var(--transition-speed);
+  word-wrap: break-word;
+}
+
+#scaffolding-pricelist-table thead th,
+#cm-pricelist-table thead th {
+  background-color: var(--header-bg);
+  font-weight: bold;
+  transition: background-color var(--transition-speed);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* On-Screen Column Widths */
+.remove-col {
+  width: 35px;
+  text-align: center;
+  border: none !important;
+}
+.qty-col {
+  width: 60px;
+  text-align: center;
+}
+.code-col {
+  width: 10%;
+}
+.desc-col {
+  width: auto;
+}
+
+#scaffolding-pricelist-table .unit-rental-col,
+#scaffolding-pricelist-table .total-rental-col,
+#scaffolding-pricelist-table .unit-sale-col,
+#scaffolding-pricelist-table .total-sale-col {
+  width: 10%;
+  text-align: right;
+}
+#cm-pricelist-table .unit-sale-col,
+#cm-pricelist-table .total-sale-col {
+  width: 16%;
+  text-align: right;
+}
+
+table.remove-mode .remove-col {
+  display: table-cell !important;
+  border: 1px solid var(--border-color) !important;
+}
+table .remove-col {
+  display: none;
+}
+
+#scaffolding-pricelist-table input.quantity-input,
+#cm-pricelist-table input.quantity-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid var(--input-border);
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+#scaffolding-pricelist-table tfoot td,
+#cm-pricelist-table tfoot td {
+  font-weight: bold;
+}
+#scaffolding-pricelist-table tfoot td[id$='-grand-total'],
+#cm-pricelist-table tfoot td[id$='-grand-total'] {
+  text-align: right;
+}
+
+.remove-btn-x {
+  background: var(--button-red);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 18px;
+  cursor: pointer;
+  padding: 0;
+  transition: background-color 0.2s ease;
+  display: inline-block;
+}
+.remove-btn-x:hover {
+  background-color: var(--button-red-hover);
+}
+
+input[type='text'],
+input[type='number'],
+input[type='file'],
+textarea {
+  padding: 8px;
+  border: 1px solid var(--input-border);
+  border-radius: 4px;
+  font-size: 0.9em;
+  background-color: var(--input-bg);
+  color: var(--text-color);
+  transition: background-color var(--transition-speed),
+    color var(--transition-speed), border-color var(--transition-speed);
+}
+/* Make main list quantity inputs text to allow expressions */
+input.quantity-input {
+  -moz-appearance: textfield; /* Firefox */
+}
+input.quantity-input::-webkit-outer-spin-button,
+input.quantity-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type='file']#jsonFileInput {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  color: transparent;
+}
+
+.print-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  border-bottom: 1px dashed var(--border-color);
+  padding-bottom: 10px;
+  flex-shrink: 0;
+}
+#user-name {
+  padding: 8px;
+  font-size: 0.9em;
+}
+#company-logo {
+  max-width: 150px;
+  height: auto;
+  display: block;
+  visibility: visible;
+}
+
+.notes-and-actions-container {
+  margin-top: auto;
+  padding-top: 10px;
+  flex-shrink: 0;
+  border-top: 1px solid var(--border-color);
+}
+.notes-container {
+  display: flex;
+  justify-content: space-between;
+  flex-shrink: 0;
+  margin-bottom: 10px;
+}
+.note-box {
+  width: 48%;
+  display: flex;
+  align-items: baseline;
+}
+.note-box label {
+  font-weight: bold;
+  margin-right: 5px;
+  flex-shrink: 0;
+  font-size: 0.9em;
+}
+.note-box textarea {
+  width: 100%;
+  padding: 6px;
+  box-sizing: border-box;
+  resize: vertical;
+  height: 38px;
+  font-size: 0.9em;
+}
+
+.button-container {
+  text-align: right;
+  flex-shrink: 0;
+}
+.button-container button {
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  font-size: 0.9em;
+  margin-left: 8px;
+  color: white;
+  transition: background-color 0.2s ease;
+}
+#toggle-remove-btn {
+  background-color: var(--button-red);
+}
+#toggle-remove-btn:hover {
+  background-color: var(--button-red-hover);
+}
+#toggle-remove-btn.done-mode {
+  background-color: var(--button-green);
+}
+#toggle-remove-btn.done-mode:hover {
+  background-color: var(--button-green-hover);
+}
+#clear-list-btn {
+  background-color: var(--button-yellow);
+  color: #333;
+}
+#clear-list-btn:hover {
+  background-color: var(--button-yellow-hover);
+}
+#print-list-btn {
+  background-color: var(--button-blue);
+}
+#print-list-btn:hover {
+  background-color: var(--button-blue-hover);
+}
+
+/* --- Modal Styles --- */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1001;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.modal-content {
+  background-color: var(--panel-bg);
+  margin: 1% auto;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  width: 80%;
+  max-width: 900px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  max-height: 88vh;
+  position: relative;
+}
+.modal-close-button {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  align-self: flex-end;
+  line-height: 1;
+  background: none;
+  border: none;
+  padding: 0 5px;
+}
+.modal-close-button:hover,
+.modal-close-button:focus {
+  color: var(--text-color);
+  text-decoration: none;
+}
+.modal-content h3 {
+  margin-top: 0;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 10px;
+}
+.modal-controls {
+  margin-bottom: 15px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+#modal-search-input {
+  width: 50%;
+  padding: 8px;
+  font-size: 0.9em;
+}
+.modal-type-filter-container {
+  font-size: 0.9em;
+}
+.modal-type-filter-container label {
+  margin-right: 5px;
+  cursor: pointer;
+}
+.modal-type-filter-container input[type='radio'] {
+  margin-right: 2px;
+  vertical-align: middle;
+}
+.modal-type-filter-container label:not(:first-of-type) {
+  margin-left: 10px;
+}
+.modal-table-wrapper {
+  overflow-y: auto;
+  flex-grow: 1;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
+#modal-full-list-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+#modal-full-list-table th,
+#modal-full-list-table td {
+  border: 1px solid var(--border-color);
+  padding: 6px;
+  text-align: left;
+  font-size: 0.85em;
+  word-wrap: break-word;
+}
+#modal-full-list-table th {
+  background-color: var(--header-bg);
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* --- UI Lock for Remove Mode --- */
+.left-panel.disabled-for-remove {
+  opacity: 0.4;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+/* Responsive Layout */
+@media (max-width: 900px) {
+  .main-container {
+    flex-direction: column;
+    height: 100vh;
+  }
+  .left-panel {
+    flex: 1;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+    height: auto;
+    min-height: 40vh;
+  }
+  .left-panel-top-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .left-panel-top-bar .dark-mode-toggle-container {
+    position: static;
+    margin-top: 5px;
+  }
+  .left-panel-top-bar h1 {
+    font-size: 1.1em;
+  }
+  .right-panel {
+    flex: 1;
+    height: auto;
+  }
+  .notes-and-actions-container {
+    margin-top: 15px;
+  }
+  .modal-content {
+    width: 90%;
+    margin-top: 20px;
+    max-height: 90vh;
+  }
+  .modal-controls {
+    flex-direction: column;
+    gap: 10px;
+    align-items: stretch;
+  }
+  #modal-search-input {
+    width: calc(100% - 16px);
+  }
+}
+
+/* Print Specific Styles */
+@page {
+  size: portrait;
+  margin: 10mm 10mm 10mm 10mm;
+}
+
+@media print {
+  body,
+  body.dark-mode {
+    margin: 0;
+    background-color: #fff !important;
+    color: #000 !important;
+    font-size: 10pt;
+    line-height: 1.3;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .left-panel-top-bar,
+  .controls-container,
+  .search-section-container,
+  .left-panel,
+  .button-container,
+  .print-header .user-info-container label,
+  .tab-buttons-container,
+  #view-full-list-btn,
+  .modal,
+  #toggle-remove-btn,
+  #clear-list-btn {
+    display: none !important;
+  }
+
+  .tab-content:not(.active) {
+    display: none !important;
+  }
+
+  .tab-content.active > h2 {
+    display: block !important;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 14pt;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    color: #000 !important;
+  }
+
+  .main-container,
+  .right-panel,
+  .tab-content.active,
+  .pricelist-container,
+  .table-wrapper {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+    overflow: visible !important;
+    background: #fff !important;
+  }
+
+  #company-logo {
+    display: block !important;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 15px;
+    filter: none !important;
+  }
+  .print-header {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: flex-start !important;
+    border: none !important;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+
+  /* Styles for user name to appear at the top right, matching sample content */
+  #user-name::before {
+    content: '' !important; /* Removes the "BY: " prefix */
+  }
+  #user-name {
+    border: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+    font-size: 11pt !important;
+    font-weight: bold;
+    text-align: right;
+    width: auto;
+    color: #000 !important;
+  }
+  #user-name::placeholder {
+    color: transparent !important;
+  }
+
+  #scaffolding-pricelist-table,
+  #cm-pricelist-table {
+    box-sizing: border-box !important;
+    width: 99%;
+    border-collapse: collapse;
+    margin-top: 0;
+    table-layout: fixed;
+  }
+  #scaffolding-pricelist-table th,
+  #scaffolding-pricelist-table td,
+  #cm-pricelist-table th,
+  #cm-pricelist-table td {
+    box-sizing: border-box !important;
+    border: 1px solid rgba(102, 102, 102, 0.5) !important;
+    padding: 3px 2px !important;
+    vertical-align: top !important;
+    color: #000 !important;
+    text-align: left;
+  }
+  #scaffolding-pricelist-table th,
+  #cm-pricelist-table th {
+    background-color: #eee !important;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  /* --- MODIFICATION: Display and style the table footer for totals --- */
+  #scaffolding-pricelist-table tfoot,
+  #cm-pricelist-table tfoot {
+    display: table-footer-group !important; /* This makes the totals visible */
+  }
+
+  /* --- MODIFICATION: Make the Rental Total prominent and slightly bigger --- */
+  #scaffolding-rental-label,
+  #scaffolding-rental-grand-total {
+    font-size: 11pt !important;
+    font-weight: bold !important;
+    color: #000 !important;
+  }
+
+  #scaffolding-pricelist-table input::-webkit-outer-spin-button,
+  #scaffolding-pricelist-table input::-webkit-inner-spin-button,
+  #cm-pricelist-table input::-webkit-outer-spin-button,
+  #cm-pricelist-table input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+  }
+
+  #scaffolding-pricelist-table .qty-col input.quantity-input,
+  #cm-pricelist-table .qty-col input.quantity-input {
+    -moz-appearance: textfield !important;
+    appearance: textfield !important;
+    border: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    color: #000 !important;
+    box-shadow: none !important;
+  }
+
+  /* Print Column Widths - Scaffolding Table */
+  #scaffolding-pricelist-table .qty-col {
+    width: 7% !important;
+  }
+  #scaffolding-pricelist-table td.qty-col {
+    text-align: center !important;
+    padding: 3px 1px !important;
+  }
+  #scaffolding-pricelist-table .code-col {
+    width: 10% !important;
+    text-align: center !important;
+    word-break: break-all;
+  }
+  #scaffolding-pricelist-table .desc-col {
+    width: 39% !important;
+  }
+  #scaffolding-pricelist-table .unit-rental-col {
+    width: 11% !important;
+    text-align: right !important;
+  }
+  #scaffolding-pricelist-table .total-rental-col {
+    width: 10% !important;
+    text-align: right !important;
+  }
+  #scaffolding-pricelist-table .unit-sale-col {
+    width: 11% !important;
+    text-align: right !important;
+  }
+  #scaffolding-pricelist-table .total-sale-col {
+    width: 11% !important;
+    text-align: right !important;
+  }
+
+  /* Print Column Widths - CM Table */
+  #cm-pricelist-table .qty-col {
+    width: 10% !important;
+  }
+  #cm-pricelist-table td.qty-col {
+    text-align: center !important;
+    padding: 3px 1px !important;
+  }
+  #cm-pricelist-table .code-col {
+    width: 15% !important;
+    text-align: center !important;
+    word-break: break-all;
+  }
+  #cm-pricelist-table .desc-col {
+    width: 39% !important;
+  }
+  #cm-pricelist-table .unit-sale-col {
+    width: 17.5% !important;
+    text-align: right !important;
+  }
+  #cm-pricelist-table .total-sale-col {
+    width: 17.5% !important;
+    text-align: right !important;
+  }
+
+  /* Ensure .notes-container and its parent are displayed for print */
+  .notes-and-actions-container {
+    display: block !important;
+    page-break-inside: avoid;
+    margin-top: 20px;
+    border-top: 1px solid #ccc !important;
+    padding-top: 10px !important;
+  }
+  .notes-container {
+    display: block !important;
+    border: none;
+  }
+  .note-box {
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex !important;
+    align-items: baseline !important;
+    flex-wrap: nowrap !important;
+  }
+  .note-box label {
+    display: inline !important;
+    margin-right: 5px;
+    color: #000 !important;
+    font-weight: bold;
+    font-size: 12pt;
+    flex-shrink: 0;
+  }
+  /* 1. This rule hides the original textarea during printing */
+  .note-box textarea {
+    display: none !important;
+  }
+
+  /* 2. This rule styles our new, temporary 'printable-note' div */
+  .printable-note {
+    /* Text wrapping and formatting will now work reliably */
+    white-space: pre-wrap;
+    word-break: break-all;
+
+    /* Font and alignment */
+    font-size: 12pt;
+    line-height: 1.3;
+    vertical-align: baseline;
+
+    /* Layout - allows it to sit next to the "DEL:" label and fill space */
+    flex-grow: 1;
+    min-width: 0;
+  }
+
+  #scaffolding-pricelist-table tr,
+  #cm-pricelist-table tr {
+    page-break-inside: avoid;
+  }
+  .print-header {
+    page-break-inside: avoid;
+  }
+}
+
+/* --- Row Highlight Effect --- */
+.row-highlight-add {
+  animation: highlightAddFade 1.5s ease-out;
+}
+.row-highlight-update {
+  animation: highlightUpdateFade 1.5s ease-out;
+}
+
+@keyframes highlightAddFade {
+  /* MODIFIED for blink effect */
+  0% {
+    background-color: rgba(76, 175, 80, 0.4); /* Initial state: Green */
+  }
+  15% {
+    background-color: transparent; /* Blink Off */
+  }
+  30% {
+    background-color: rgba(76, 175, 80, 0.4); /* Blink On again */
+  }
+  100% {
+    background-color: transparent; /* Ensure it ends transparent */
+  }
+}
+
+@keyframes highlightUpdateFade {
+  /* MODIFIED for blink effect */
+  0% {
+    background-color: rgba(255, 235, 59, 0.4); /* Initial state: Yellow */
+  }
+  15% {
+    background-color: transparent; /* Blink Off */
+  }
+  30% {
+    background-color: rgba(255, 235, 59, 0.4); /* Blink On again */
+  }
+  100% {
+    background-color: transparent; /* Ensure it ends transparent */
+  }
+}
+
+/* Dark Mode Highlight Animations */
+body.dark-mode .row-highlight-add {
+  animation: highlightAddFadeDark 1.5s ease-out;
+}
+body.dark-mode .row-highlight-update {
+  animation: highlightUpdateFadeDark 1.5s ease-out;
+}
+
+@keyframes highlightAddFadeDark {
+  /* ADDED for dark mode blink effect (add) */
+  0% {
+    background-color: rgba(
+      102,
+      204,
+      102,
+      0.25
+    ); /* Brighter Green for Dark Mode */
+  }
+  15% {
+    background-color: transparent; /* Blink Off */
+  }
+  30% {
+    background-color: rgba(102, 204, 102, 0.25); /* Blink On again */
+  }
+  100% {
+    background-color: transparent; /* Ensure it ends transparent */
+  }
+}
+
+@keyframes highlightUpdateFadeDark {
+  /* ADDED for dark mode blink effect (update) */
+  0% {
+    background-color: rgba(255, 215, 0, 0.25); /* Gold/Yellow for Dark Mode */
+  }
+  15% {
+    background-color: transparent; /* Blink Off */
+  }
+  30% {
+    background-color: rgba(255, 215, 0, 0.25); /* Blink On again */
+  }
+  100% {
+    background-color: transparent; /* Ensure it ends transparent */
+  }
+}
