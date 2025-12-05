@@ -3639,21 +3639,35 @@
     "id": "BUNGEE",
     "description": "BUNGEE BAG (PACK OF 100 QTY)",
     "category": "COVERINGS",
-    "sale_price": 52.27,
+    "sale_price": 43.59,
     "type": "construction materials"
   },
   {
-    "id": "TWRP",
-    "description": "TIE WRAP BAG (PACK OF 500 QTY)",
+    "id": "BUNGEE",
+    "description": "BUNGEE BAG (PACK OF 1000 QTY)",
     "category": "COVERINGS",
-    "sale_price": 57.5,
+    "sale_price": 435.85,
+    "type": "construction materials"
+  },  
+  {
+    "id": "TWRP",
+    "description": "TIE WRAP BAG (PACK OF 100 QTY)",
+    "category": "COVERINGS",
+    "sale_price": 8.74,
     "type": "construction materials"
   },
   {
     "id": "TWRP",
     "description": "TIE WRAP BAG (PACK OF 1000 QTY)",
     "category": "COVERINGS",
-    "sale_price": null,
+    "sale_price": 87.40,
+    "type": "construction materials"
+  },
+  {
+    "id": "SRWLOC",
+    "description": "SCREW-LOC CONNECTORS (PACK OF 250 QTY)",
+    "category": "COVERINGS",
+    "sale_price": 196.65,
     "type": "construction materials"
   },
   {
@@ -3748,4 +3762,5 @@
     "type": "construction materials"
   }
 ]
+
 
